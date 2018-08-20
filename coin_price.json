@@ -1,0 +1,7074 @@
+{
+    "BTC-ADA": [
+        {
+            "change_rate": 0.0012820513,
+            "day": "2018-08-20",
+            "high_price": 1.578e-05,
+            "low_price": 1.539e-05
+        },
+        {
+            "change_rate": 0.0090556274,
+            "day": "2018-08-19",
+            "high_price": 1.597e-05,
+            "low_price": 1.52e-05
+        },
+        {
+            "change_rate": -0.0703547805,
+            "day": "2018-08-18",
+            "high_price": 1.699e-05,
+            "low_price": 1.517e-05
+        },
+        {
+            "change_rate": 0.1057180851,
+            "day": "2018-08-17",
+            "high_price": 1.67e-05,
+            "low_price": 1.491e-05
+        }
+    ],
+    "BTC-ADT": [
+        {
+            "change_rate": -0.0373443983,
+            "day": "2018-08-20",
+            "high_price": 2.46e-06,
+            "low_price": 2.31e-06
+        },
+        {
+            "change_rate": 0.0041666667,
+            "day": "2018-08-19",
+            "high_price": 2.47e-06,
+            "low_price": 2.29e-06
+        },
+        {
+            "change_rate": 0.0169491525,
+            "day": "2018-08-18",
+            "high_price": 2.69e-06,
+            "low_price": 2.28e-06
+        },
+        {
+            "change_rate": 0.0925925926,
+            "day": "2018-08-17",
+            "high_price": 2.38e-06,
+            "low_price": 2.1e-06
+        }
+    ],
+    "BTC-ADX": [
+        {
+            "change_rate": -0.0007067138,
+            "day": "2018-08-20",
+            "high_price": 2.896e-05,
+            "low_price": 2.809e-05
+        },
+        {
+            "change_rate": 0.0161579892,
+            "day": "2018-08-19",
+            "high_price": 2.949e-05,
+            "low_price": 2.745e-05
+        },
+        {
+            "change_rate": -0.1208964646,
+            "day": "2018-08-18",
+            "high_price": 3.257e-05,
+            "low_price": 2.701e-05
+        },
+        {
+            "change_rate": 0.175074184,
+            "day": "2018-08-17",
+            "high_price": 3.177e-05,
+            "low_price": 2.68e-05
+        }
+    ],
+    "BTC-AID": [
+        {
+            "change_rate": -0.0031055901,
+            "day": "2018-08-20",
+            "high_price": 9.65e-06,
+            "low_price": 9.52e-06
+        },
+        {
+            "change_rate": 0.021141649,
+            "day": "2018-08-19",
+            "high_price": 9.81e-06,
+            "low_price": 9.27e-06
+        },
+        {
+            "change_rate": -0.0463709677,
+            "day": "2018-08-18",
+            "high_price": 1.027e-05,
+            "low_price": 9.34e-06
+        },
+        {
+            "change_rate": 0.1376146789,
+            "day": "2018-08-17",
+            "high_price": 1.093e-05,
+            "low_price": 8.6e-06
+        }
+    ],
+    "BTC-AMP": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 1.201e-05,
+            "low_price": 1.188e-05
+        },
+        {
+            "change_rate": -0.0016806723,
+            "day": "2018-08-19",
+            "high_price": 1.21e-05,
+            "low_price": 1.145e-05
+        },
+        {
+            "change_rate": -0.0724863601,
+            "day": "2018-08-18",
+            "high_price": 1.317e-05,
+            "low_price": 1.189e-05
+        },
+        {
+            "change_rate": 0.0909863946,
+            "day": "2018-08-17",
+            "high_price": 1.361e-05,
+            "low_price": 1.141e-05
+        }
+    ],
+    "BTC-ANT": [
+        {
+            "change_rate": 0.0004935225,
+            "day": "2018-08-20",
+            "high_price": 0.00016455,
+            "low_price": 0.00016092
+        },
+        {
+            "change_rate": -0.0130898021,
+            "day": "2018-08-19",
+            "high_price": 0.000168,
+            "low_price": 0.00015817
+        },
+        {
+            "change_rate": -0.0165259565,
+            "day": "2018-08-18",
+            "high_price": 0.00017095,
+            "low_price": 0.00016406
+        },
+        {
+            "change_rate": 0.062134317,
+            "day": "2018-08-17",
+            "high_price": 0.0001705,
+            "low_price": 0.00015502
+        }
+    ],
+    "BTC-ARDR": [
+        {
+            "change_rate": -0.0308988764,
+            "day": "2018-08-20",
+            "high_price": 1.789e-05,
+            "low_price": 1.711e-05
+        },
+        {
+            "change_rate": 0.034282394,
+            "day": "2018-08-19",
+            "high_price": 1.785e-05,
+            "low_price": 1.676e-05
+        },
+        {
+            "change_rate": -0.0942105263,
+            "day": "2018-08-18",
+            "high_price": 1.92e-05,
+            "low_price": 1.681e-05
+        },
+        {
+            "change_rate": 0.0989010989,
+            "day": "2018-08-17",
+            "high_price": 1.902e-05,
+            "low_price": 1.712e-05
+        }
+    ],
+    "BTC-ARK": [
+        {
+            "change_rate": 0.0221543163,
+            "day": "2018-08-20",
+            "high_price": 0.000109,
+            "low_price": 0.00010431
+        },
+        {
+            "change_rate": 0.0096413421,
+            "day": "2018-08-19",
+            "high_price": 0.00010999,
+            "low_price": 0.00010038
+        },
+        {
+            "change_rate": -0.0956491412,
+            "day": "2018-08-18",
+            "high_price": 0.00011965,
+            "low_price": 0.00010111
+        },
+        {
+            "change_rate": 0.1608299595,
+            "day": "2018-08-17",
+            "high_price": 0.0001207,
+            "low_price": 9.881e-05
+        }
+    ],
+    "BTC-BAT": [
+        {
+            "change_rate": 0.0089206066,
+            "day": "2018-08-20",
+            "high_price": 3.524e-05,
+            "low_price": 3.3e-05
+        },
+        {
+            "change_rate": 0.0357252849,
+            "day": "2018-08-19",
+            "high_price": 3.584e-05,
+            "low_price": 3.207e-05
+        },
+        {
+            "change_rate": -0.0525240735,
+            "day": "2018-08-18",
+            "high_price": 3.482e-05,
+            "low_price": 3.088e-05
+        },
+        {
+            "change_rate": 0.1159231521,
+            "day": "2018-08-17",
+            "high_price": 3.469e-05,
+            "low_price": 3.077e-05
+        }
+    ],
+    "BTC-BAY": [
+        {
+            "change_rate": -0.0135135135,
+            "day": "2018-08-20",
+            "high_price": 2.99e-06,
+            "low_price": 2.92e-06
+        },
+        {
+            "change_rate": 0.1044776119,
+            "day": "2018-08-19",
+            "high_price": 3.1e-06,
+            "low_price": 2.7e-06
+        },
+        {
+            "change_rate": -0.0853242321,
+            "day": "2018-08-18",
+            "high_price": 3.04e-06,
+            "low_price": 2.66e-06
+        },
+        {
+            "change_rate": 0.122605364,
+            "day": "2018-08-17",
+            "high_price": 3.06e-06,
+            "low_price": 2.58e-06
+        }
+    ],
+    "BTC-BCH": [
+        {
+            "change_rate": -0.0110540473,
+            "day": "2018-08-20",
+            "high_price": 0.08868,
+            "low_price": 0.08677421
+        },
+        {
+            "change_rate": 0.017234045,
+            "day": "2018-08-19",
+            "high_price": 0.09006485,
+            "low_price": 0.08562001
+        },
+        {
+            "change_rate": -0.0470146663,
+            "day": "2018-08-18",
+            "high_price": 0.09226789,
+            "low_price": 0.0847
+        },
+        {
+            "change_rate": 0.1111521927,
+            "day": "2018-08-17",
+            "high_price": 0.0915,
+            "low_price": 0.08167
+        }
+    ],
+    "BTC-BCPT": [
+        {
+            "change_rate": -0.0247933884,
+            "day": "2018-08-20",
+            "high_price": 1.388e-05,
+            "low_price": 1.298e-05
+        },
+        {
+            "change_rate": 0.0144817073,
+            "day": "2018-08-19",
+            "high_price": 1.437e-05,
+            "low_price": 1.271e-05
+        },
+        {
+            "change_rate": -0.1001371742,
+            "day": "2018-08-18",
+            "high_price": 1.486e-05,
+            "low_price": 1.251e-05
+        },
+        {
+            "change_rate": 0.1921504497,
+            "day": "2018-08-17",
+            "high_price": 1.482e-05,
+            "low_price": 1.175e-05
+        }
+    ],
+    "BTC-BITB": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 3.9e-07,
+            "low_price": 3.6e-07
+        },
+        {
+            "change_rate": 0.0285714286,
+            "day": "2018-08-19",
+            "high_price": 3.8e-07,
+            "low_price": 3.4e-07
+        },
+        {
+            "change_rate": -0.0540540541,
+            "day": "2018-08-18",
+            "high_price": 3.9e-07,
+            "low_price": 3.5e-07
+        },
+        {
+            "change_rate": 0.1212121212,
+            "day": "2018-08-17",
+            "high_price": 3.7e-07,
+            "low_price": 3.3e-07
+        }
+    ],
+    "BTC-BKX": [
+        {
+            "change_rate": 0.0216718266,
+            "day": "2018-08-20",
+            "high_price": 1.344e-05,
+            "low_price": 1.285e-05
+        },
+        {
+            "change_rate": -0.0624092888,
+            "day": "2018-08-19",
+            "high_price": 1.382e-05,
+            "low_price": 1.231e-05
+        },
+        {
+            "change_rate": -0.0632222978,
+            "day": "2018-08-18",
+            "high_price": 1.492e-05,
+            "low_price": 1.334e-05
+        },
+        {
+            "change_rate": -0.024535809,
+            "day": "2018-08-17",
+            "high_price": 1.526e-05,
+            "low_price": 1.405e-05
+        }
+    ],
+    "BTC-BLK": [
+        {
+            "change_rate": 0.0016680567,
+            "day": "2018-08-20",
+            "high_price": 1.216e-05,
+            "low_price": 1.188e-05
+        },
+        {
+            "change_rate": -0.06328125,
+            "day": "2018-08-19",
+            "high_price": 1.314e-05,
+            "low_price": 1.183e-05
+        },
+        {
+            "change_rate": -0.0504451039,
+            "day": "2018-08-18",
+            "high_price": 1.357e-05,
+            "low_price": 1.275e-05
+        },
+        {
+            "change_rate": 0.0614173228,
+            "day": "2018-08-17",
+            "high_price": 1.387e-05,
+            "low_price": 1.25e-05
+        }
+    ],
+    "BTC-BLOCK": [
+        {
+            "change_rate": -0.0176699646,
+            "day": "2018-08-20",
+            "high_price": 0.00086998,
+            "low_price": 0.00083501
+        },
+        {
+            "change_rate": 0.0359902498,
+            "day": "2018-08-19",
+            "high_price": 0.00086999,
+            "low_price": 0.0008205
+        },
+        {
+            "change_rate": -0.0230863565,
+            "day": "2018-08-18",
+            "high_price": 0.00084998,
+            "low_price": 0.00082044
+        },
+        {
+            "change_rate": 0.035622688,
+            "day": "2018-08-17",
+            "high_price": 0.00083999,
+            "low_price": 0.000805
+        }
+    ],
+    "BTC-BLT": [
+        {
+            "change_rate": 0.0175141243,
+            "day": "2018-08-20",
+            "high_price": 1.801e-05,
+            "low_price": 1.77e-05
+        },
+        {
+            "change_rate": -0.0044994376,
+            "day": "2018-08-19",
+            "high_price": 1.818e-05,
+            "low_price": 1.749e-05
+        },
+        {
+            "change_rate": -0.0507207688,
+            "day": "2018-08-18",
+            "high_price": 1.906e-05,
+            "low_price": 1.71e-05
+        },
+        {
+            "change_rate": 0.0908561444,
+            "day": "2018-08-17",
+            "high_price": 1.889e-05,
+            "low_price": 1.7e-05
+        }
+    ],
+    "BTC-BNT": [
+        {
+            "change_rate": -0.0051954186,
+            "day": "2018-08-20",
+            "high_price": 0.00026001,
+            "low_price": 0.00025149
+        },
+        {
+            "change_rate": 0.010982452,
+            "day": "2018-08-19",
+            "high_price": 0.00025987,
+            "low_price": 0.00025067
+        },
+        {
+            "change_rate": -0.0425920987,
+            "day": "2018-08-18",
+            "high_price": 0.00026903,
+            "low_price": 0.00024502
+        },
+        {
+            "change_rate": 0.0704702092,
+            "day": "2018-08-17",
+            "high_price": 0.00026349,
+            "low_price": 0.0002453
+        }
+    ],
+    "BTC-BSD": [
+        {
+            "change_rate": -0.0224194302,
+            "day": "2018-08-20",
+            "high_price": 2.141e-05,
+            "low_price": 2.093e-05
+        },
+        {
+            "change_rate": 0.0780463243,
+            "day": "2018-08-19",
+            "high_price": 2.45e-05,
+            "low_price": 1.9e-05
+        },
+        {
+            "change_rate": 0.0408805031,
+            "day": "2018-08-18",
+            "high_price": 2.26e-05,
+            "low_price": 1.878e-05
+        },
+        {
+            "change_rate": 0.0605892162,
+            "day": "2018-08-17",
+            "high_price": 2e-05,
+            "low_price": 1.749e-05
+        }
+    ],
+    "BTC-BTG": [
+        {
+            "change_rate": 0.0031305164,
+            "day": "2018-08-20",
+            "high_price": 0.00311399,
+            "low_price": 0.00295356
+        },
+        {
+            "change_rate": 0.0288969763,
+            "day": "2018-08-19",
+            "high_price": 0.00319,
+            "low_price": 0.00283
+        },
+        {
+            "change_rate": -0.0290483016,
+            "day": "2018-08-18",
+            "high_price": 0.00317625,
+            "low_price": 0.00278603
+        },
+        {
+            "change_rate": 0.1228469614,
+            "day": "2018-08-17",
+            "high_price": 0.0032642,
+            "low_price": 0.00266395
+        }
+    ],
+    "BTC-BURST": [
+        {
+            "change_rate": 0.0076923077,
+            "day": "2018-08-20",
+            "high_price": 1.34e-06,
+            "low_price": 1.26e-06
+        },
+        {
+            "change_rate": -0.037037037,
+            "day": "2018-08-19",
+            "high_price": 1.39e-06,
+            "low_price": 1.28e-06
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-18",
+            "high_price": 1.45e-06,
+            "low_price": 1.29e-06
+        },
+        {
+            "change_rate": 0.125,
+            "day": "2018-08-17",
+            "high_price": 1.61e-06,
+            "low_price": 1.19e-06
+        }
+    ],
+    "BTC-CFI": [
+        {
+            "change_rate": -0.0390879479,
+            "day": "2018-08-20",
+            "high_price": 3.18e-06,
+            "low_price": 2.95e-06
+        },
+        {
+            "change_rate": -0.0376175549,
+            "day": "2018-08-19",
+            "high_price": 3.16e-06,
+            "low_price": 2.8e-06
+        },
+        {
+            "change_rate": -0.0184615385,
+            "day": "2018-08-18",
+            "high_price": 3.34e-06,
+            "low_price": 3.11e-06
+        },
+        {
+            "change_rate": 0.0833333333,
+            "day": "2018-08-17",
+            "high_price": 3.25e-06,
+            "low_price": 2.7e-06
+        }
+    ],
+    "BTC-CLOAK": [
+        {
+            "change_rate": -0.0054648518,
+            "day": "2018-08-20",
+            "high_price": 0.00030518,
+            "low_price": 0.000293
+        },
+        {
+            "change_rate": 0.0373226295,
+            "day": "2018-08-19",
+            "high_price": 0.00031656,
+            "low_price": 0.00027847
+        },
+        {
+            "change_rate": -0.0326305392,
+            "day": "2018-08-18",
+            "high_price": 0.00035355,
+            "low_price": 0.00027848
+        },
+        {
+            "change_rate": 0.1464776632,
+            "day": "2018-08-17",
+            "high_price": 0.00031994,
+            "low_price": 0.00025544
+        }
+    ],
+    "BTC-CMCT": [
+        {
+            "change_rate": -0.0233918129,
+            "day": "2018-08-20",
+            "high_price": 3.6e-06,
+            "low_price": 3.17e-06
+        },
+        {
+            "change_rate": 0.0208955224,
+            "day": "2018-08-19",
+            "high_price": 3.57e-06,
+            "low_price": 3.22e-06
+        },
+        {
+            "change_rate": -0.0088757396,
+            "day": "2018-08-18",
+            "high_price": 3.72e-06,
+            "low_price": 3.31e-06
+        },
+        {
+            "change_rate": 0.0304878049,
+            "day": "2018-08-17",
+            "high_price": 3.72e-06,
+            "low_price": 3.11e-06
+        }
+    ],
+    "BTC-CVC": [
+        {
+            "change_rate": -0.0069038768,
+            "day": "2018-08-20",
+            "high_price": 1.936e-05,
+            "low_price": 1.85e-05
+        },
+        {
+            "change_rate": 0.0069518717,
+            "day": "2018-08-19",
+            "high_price": 1.953e-05,
+            "low_price": 1.85e-05
+        },
+        {
+            "change_rate": -0.093553078,
+            "day": "2018-08-18",
+            "high_price": 2.285e-05,
+            "low_price": 1.83e-05
+        },
+        {
+            "change_rate": 0.1883640553,
+            "day": "2018-08-17",
+            "high_price": 2.093e-05,
+            "low_price": 1.73e-05
+        }
+    ],
+    "BTC-DASH": [
+        {
+            "change_rate": 0.0012160626,
+            "day": "2018-08-20",
+            "high_price": 0.02420989,
+            "low_price": 0.02371173
+        },
+        {
+            "change_rate": -0.0021480334,
+            "day": "2018-08-19",
+            "high_price": 0.02520261,
+            "low_price": 0.02336747
+        },
+        {
+            "change_rate": -0.0580846814,
+            "day": "2018-08-18",
+            "high_price": 0.025892,
+            "low_price": 0.02310015
+        },
+        {
+            "change_rate": 0.057782645,
+            "day": "2018-08-17",
+            "high_price": 0.02551997,
+            "low_price": 0.02397
+        }
+    ],
+    "BTC-DCR": [
+        {
+            "change_rate": -0.0314758349,
+            "day": "2018-08-20",
+            "high_price": 0.00633,
+            "low_price": 0.006051
+        },
+        {
+            "change_rate": 0.0219917196,
+            "day": "2018-08-19",
+            "high_price": 0.00634289,
+            "low_price": 0.006009
+        },
+        {
+            "change_rate": -0.0427288728,
+            "day": "2018-08-18",
+            "high_price": 0.00670137,
+            "low_price": 0.005899
+        },
+        {
+            "change_rate": 0.0643466667,
+            "day": "2018-08-17",
+            "high_price": 0.00700994,
+            "low_price": 0.006
+        }
+    ],
+    "BTC-DCT": [
+        {
+            "change_rate": -0.0447271235,
+            "day": "2018-08-20",
+            "high_price": 2.439e-05,
+            "low_price": 2.328e-05
+        },
+        {
+            "change_rate": 0.0445777968,
+            "day": "2018-08-19",
+            "high_price": 2.47e-05,
+            "low_price": 2.321e-05
+        },
+        {
+            "change_rate": -0.0847391134,
+            "day": "2018-08-18",
+            "high_price": 2.75e-05,
+            "low_price": 2.333e-05
+        },
+        {
+            "change_rate": 0.0463875205,
+            "day": "2018-08-17",
+            "high_price": 2.56e-05,
+            "low_price": 2.4e-05
+        }
+    ],
+    "BTC-DGB": [
+        {
+            "change_rate": 0.0024752475,
+            "day": "2018-08-20",
+            "high_price": 4.13e-06,
+            "low_price": 4.02e-06
+        },
+        {
+            "change_rate": -0.0049261084,
+            "day": "2018-08-19",
+            "high_price": 4.22e-06,
+            "low_price": 3.93e-06
+        },
+        {
+            "change_rate": -0.0491803279,
+            "day": "2018-08-18",
+            "high_price": 4.36e-06,
+            "low_price": 3.89e-06
+        },
+        {
+            "change_rate": 0.1090909091,
+            "day": "2018-08-17",
+            "high_price": 4.31e-06,
+            "low_price": 3.84e-06
+        }
+    ],
+    "BTC-DMT": [
+        {
+            "change_rate": -0.04256,
+            "day": "2018-08-20",
+            "high_price": 3.081e-05,
+            "low_price": 2.921e-05
+        },
+        {
+            "change_rate": 0.1743705374,
+            "day": "2018-08-19",
+            "high_price": 3.383e-05,
+            "low_price": 2.7e-05
+        },
+        {
+            "change_rate": -0.0441810345,
+            "day": "2018-08-18",
+            "high_price": 3.339e-05,
+            "low_price": 2.661e-05
+        },
+        {
+            "change_rate": 0.0930506478,
+            "day": "2018-08-17",
+            "high_price": 2.79e-05,
+            "low_price": 2.439e-05
+        }
+    ],
+    "BTC-DNT": [
+        {
+            "change_rate": 0.0028735632,
+            "day": "2018-08-20",
+            "high_price": 3.57e-06,
+            "low_price": 3.46e-06
+        },
+        {
+            "change_rate": 0.0295857988,
+            "day": "2018-08-19",
+            "high_price": 3.71e-06,
+            "low_price": 3.38e-06
+        },
+        {
+            "change_rate": -0.0962566845,
+            "day": "2018-08-18",
+            "high_price": 3.86e-06,
+            "low_price": 3.3e-06
+        },
+        {
+            "change_rate": 0.1402439024,
+            "day": "2018-08-17",
+            "high_price": 3.84e-06,
+            "low_price": 3.2e-06
+        }
+    ],
+    "BTC-DOGE": [
+        {
+            "change_rate": 0.0263157895,
+            "day": "2018-08-20",
+            "high_price": 3.9e-07,
+            "low_price": 3.7e-07
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-19",
+            "high_price": 3.9e-07,
+            "low_price": 3.7e-07
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-18",
+            "high_price": 3.9e-07,
+            "low_price": 3.6e-07
+        },
+        {
+            "change_rate": 0.027027027,
+            "day": "2018-08-17",
+            "high_price": 3.9e-07,
+            "low_price": 3.5e-07
+        }
+    ],
+    "BTC-DYN": [
+        {
+            "change_rate": -0.0127751002,
+            "day": "2018-08-20",
+            "high_price": 0.00017273,
+            "low_price": 0.00017001
+        },
+        {
+            "change_rate": 0.0178497547,
+            "day": "2018-08-19",
+            "high_price": 0.00017369,
+            "low_price": 0.00016919
+        },
+        {
+            "change_rate": -0.0960624032,
+            "day": "2018-08-18",
+            "high_price": 0.00019094,
+            "low_price": 0.00015118
+        },
+        {
+            "change_rate": -0.0507657977,
+            "day": "2018-08-17",
+            "high_price": 0.00019718,
+            "low_price": 0.00017546
+        }
+    ],
+    "BTC-EDG": [
+        {
+            "change_rate": -0.0174291939,
+            "day": "2018-08-20",
+            "high_price": 4.777e-05,
+            "low_price": 4.51e-05
+        },
+        {
+            "change_rate": 0.0154867257,
+            "day": "2018-08-19",
+            "high_price": 4.749e-05,
+            "low_price": 4.419e-05
+        },
+        {
+            "change_rate": -0.0380932113,
+            "day": "2018-08-18",
+            "high_price": 4.735e-05,
+            "low_price": 4.399e-05
+        },
+        {
+            "change_rate": 0.0479482605,
+            "day": "2018-08-17",
+            "high_price": 4.699e-05,
+            "low_price": 4.295e-05
+        }
+    ],
+    "BTC-EMC": [
+        {
+            "change_rate": -0.0130090289,
+            "day": "2018-08-20",
+            "high_price": 0.00027164,
+            "low_price": 0.00026763
+        },
+        {
+            "change_rate": 0.0113301778,
+            "day": "2018-08-19",
+            "high_price": 0.0002767,
+            "low_price": 0.00026709
+        },
+        {
+            "change_rate": 7.45462e-05,
+            "day": "2018-08-18",
+            "high_price": 0.00027735,
+            "low_price": 0.00026829
+        },
+        {
+            "change_rate": -0.0314440433,
+            "day": "2018-08-17",
+            "high_price": 0.00027495,
+            "low_price": 0.0002655
+        }
+    ],
+    "BTC-EMC2": [
+        {
+            "change_rate": 0.0076804916,
+            "day": "2018-08-20",
+            "high_price": 1.319e-05,
+            "low_price": 1.276e-05
+        },
+        {
+            "change_rate": -0.0068649886,
+            "day": "2018-08-19",
+            "high_price": 1.338e-05,
+            "low_price": 1.25e-05
+        },
+        {
+            "change_rate": -0.0260029718,
+            "day": "2018-08-18",
+            "high_price": 1.425e-05,
+            "low_price": 1.277e-05
+        },
+        {
+            "change_rate": 0.0969845151,
+            "day": "2018-08-17",
+            "high_price": 1.395e-05,
+            "low_price": 1.198e-05
+        }
+    ],
+    "BTC-ENG": [
+        {
+            "change_rate": 0.0090132827,
+            "day": "2018-08-20",
+            "high_price": 0.00010925,
+            "low_price": 0.00010498
+        },
+        {
+            "change_rate": 0.0142417244,
+            "day": "2018-08-19",
+            "high_price": 0.00011194,
+            "low_price": 9.927e-05
+        },
+        {
+            "change_rate": -0.0961120292,
+            "day": "2018-08-18",
+            "high_price": 0.00011937,
+            "low_price": 0.00010082
+        },
+        {
+            "change_rate": 0.1466041687,
+            "day": "2018-08-17",
+            "high_price": 0.000117,
+            "low_price": 0.00010009
+        }
+    ],
+    "BTC-ETC": [
+        {
+            "change_rate": 0.000507525,
+            "day": "2018-08-20",
+            "high_price": 0.00207524,
+            "low_price": 0.00203226
+        },
+        {
+            "change_rate": -0.006323344,
+            "day": "2018-08-19",
+            "high_price": 0.00213074,
+            "low_price": 0.00202501
+        },
+        {
+            "change_rate": -0.0604925785,
+            "day": "2018-08-18",
+            "high_price": 0.00220676,
+            "low_price": 0.00200103
+        },
+        {
+            "change_rate": -0.0048736699,
+            "day": "2018-08-17",
+            "high_price": 0.00222414,
+            "low_price": 0.00207143
+        }
+    ],
+    "BTC-ETH": [
+        {
+            "change_rate": 0.003744806,
+            "day": "2018-08-20",
+            "high_price": 0.04664999,
+            "low_price": 0.04585904
+        },
+        {
+            "change_rate": 0.0024751594,
+            "day": "2018-08-19",
+            "high_price": 0.04741741,
+            "low_price": 0.04548671
+        },
+        {
+            "change_rate": -0.0433441455,
+            "day": "2018-08-18",
+            "high_price": 0.04867298,
+            "low_price": 0.04480865
+        },
+        {
+            "change_rate": 0.0600133167,
+            "day": "2018-08-17",
+            "high_price": 0.04865995,
+            "low_price": 0.04526953
+        }
+    ],
+    "BTC-EXCL": [
+        {
+            "change_rate": 0.0045571062,
+            "day": "2018-08-20",
+            "high_price": 3.537e-05,
+            "low_price": 3.511e-05
+        },
+        {
+            "change_rate": 0.0636170857,
+            "day": "2018-08-19",
+            "high_price": 4.155e-05,
+            "low_price": 3.301e-05
+        },
+        {
+            "change_rate": 0.0289900249,
+            "day": "2018-08-18",
+            "high_price": 3.678e-05,
+            "low_price": 3.2e-05
+        },
+        {
+            "change_rate": 0.0245927819,
+            "day": "2018-08-17",
+            "high_price": 3.379e-05,
+            "low_price": 3.065e-05
+        }
+    ],
+    "BTC-EXP": [
+        {
+            "change_rate": -0.0233633183,
+            "day": "2018-08-20",
+            "high_price": 8.064e-05,
+            "low_price": 7.778e-05
+        },
+        {
+            "change_rate": -0.0029895366,
+            "day": "2018-08-19",
+            "high_price": 8.105e-05,
+            "low_price": 7.887e-05
+        },
+        {
+            "change_rate": -0.0503903478,
+            "day": "2018-08-18",
+            "high_price": 8.826e-05,
+            "low_price": 8e-05
+        },
+        {
+            "change_rate": 0.0246030784,
+            "day": "2018-08-17",
+            "high_price": 8.493e-05,
+            "low_price": 8.001e-05
+        }
+    ],
+    "BTC-FCT": [
+        {
+            "change_rate": -0.028225676,
+            "day": "2018-08-20",
+            "high_price": 0.000975,
+            "low_price": 0.00090004
+        },
+        {
+            "change_rate": 0.0411323467,
+            "day": "2018-08-19",
+            "high_price": 0.00098,
+            "low_price": 0.00087037
+        },
+        {
+            "change_rate": 0.0476941176,
+            "day": "2018-08-18",
+            "high_price": 0.00093823,
+            "low_price": 0.00081001
+        },
+        {
+            "change_rate": 0.0638031589,
+            "day": "2018-08-17",
+            "high_price": 0.00085443,
+            "low_price": 0.00077011
+        }
+    ],
+    "BTC-FTC": [
+        {
+            "change_rate": -0.0164348925,
+            "day": "2018-08-20",
+            "high_price": 8.2e-06,
+            "low_price": 7.77e-06
+        },
+        {
+            "change_rate": 0.0063613232,
+            "day": "2018-08-19",
+            "high_price": 8.23e-06,
+            "low_price": 7.81e-06
+        },
+        {
+            "change_rate": -0.0379436965,
+            "day": "2018-08-18",
+            "high_price": 8.28e-06,
+            "low_price": 7.85e-06
+        },
+        {
+            "change_rate": 0.0447570332,
+            "day": "2018-08-17",
+            "high_price": 8.6e-06,
+            "low_price": 7.45e-06
+        }
+    ],
+    "BTC-GAME": [
+        {
+            "change_rate": -0.0197260274,
+            "day": "2018-08-20",
+            "high_price": 3.745e-05,
+            "low_price": 3.575e-05
+        },
+        {
+            "change_rate": -0.0054495913,
+            "day": "2018-08-19",
+            "high_price": 3.813e-05,
+            "low_price": 3.55e-05
+        },
+        {
+            "change_rate": -0.0285865537,
+            "day": "2018-08-18",
+            "high_price": 3.83e-05,
+            "low_price": 3.571e-05
+        },
+        {
+            "change_rate": 0.0969802555,
+            "day": "2018-08-17",
+            "high_price": 3.856e-05,
+            "low_price": 3.34e-05
+        }
+    ],
+    "BTC-GBYTE": [
+        {
+            "change_rate": -0.0193170932,
+            "day": "2018-08-20",
+            "high_price": 0.00935,
+            "low_price": 0.00876117
+        },
+        {
+            "change_rate": 0.116016313,
+            "day": "2018-08-19",
+            "high_price": 0.00923845,
+            "low_price": 0.00810889
+        },
+        {
+            "change_rate": -0.0369589623,
+            "day": "2018-08-18",
+            "high_price": 0.0092167,
+            "low_price": 0.00810003
+        },
+        {
+            "change_rate": 0.0491975163,
+            "day": "2018-08-17",
+            "high_price": 0.00901672,
+            "low_price": 0.00811264
+        }
+    ],
+    "BTC-GNO": [
+        {
+            "change_rate": 0.0083812997,
+            "day": "2018-08-20",
+            "high_price": 0.00482049,
+            "low_price": 0.00461402
+        },
+        {
+            "change_rate": -0.0143248756,
+            "day": "2018-08-19",
+            "high_price": 0.00484407,
+            "low_price": 0.00466184
+        },
+        {
+            "change_rate": -0.0563223343,
+            "day": "2018-08-18",
+            "high_price": 0.00508425,
+            "low_price": 0.00462503
+        },
+        {
+            "change_rate": 0.07976267,
+            "day": "2018-08-17",
+            "high_price": 0.0051065,
+            "low_price": 0.0047293
+        }
+    ],
+    "BTC-GNT": [
+        {
+            "change_rate": -0.0222129086,
+            "day": "2018-08-20",
+            "high_price": 2.408e-05,
+            "low_price": 2.303e-05
+        },
+        {
+            "change_rate": -0.0066611157,
+            "day": "2018-08-19",
+            "high_price": 2.53e-05,
+            "low_price": 2.325e-05
+        },
+        {
+            "change_rate": -0.1162619573,
+            "day": "2018-08-18",
+            "high_price": 2.801e-05,
+            "low_price": 2.29e-05
+        },
+        {
+            "change_rate": 0.2479338843,
+            "day": "2018-08-17",
+            "high_price": 2.759e-05,
+            "low_price": 2.173e-05
+        }
+    ],
+    "BTC-GRS": [
+        {
+            "change_rate": 0.0256912693,
+            "day": "2018-08-20",
+            "high_price": 9.88e-05,
+            "low_price": 9.19e-05
+        },
+        {
+            "change_rate": -0.0048748781,
+            "day": "2018-08-19",
+            "high_price": 9.684e-05,
+            "low_price": 8.628e-05
+        },
+        {
+            "change_rate": -0.0733788396,
+            "day": "2018-08-18",
+            "high_price": 9.979e-05,
+            "low_price": 8.888e-05
+        },
+        {
+            "change_rate": 0.0382490881,
+            "day": "2018-08-17",
+            "high_price": 0.00010074,
+            "low_price": 9.209e-05
+        }
+    ],
+    "BTC-GTO": [
+        {
+            "change_rate": -0.022480058,
+            "day": "2018-08-20",
+            "high_price": 1.381e-05,
+            "low_price": 1.329e-05
+        },
+        {
+            "change_rate": 0.0815686275,
+            "day": "2018-08-19",
+            "high_price": 1.437e-05,
+            "low_price": 1.261e-05
+        },
+        {
+            "change_rate": -0.0631888317,
+            "day": "2018-08-18",
+            "high_price": 1.489e-05,
+            "low_price": 1.241e-05
+        },
+        {
+            "change_rate": 0.1220115416,
+            "day": "2018-08-17",
+            "high_price": 1.368e-05,
+            "low_price": 1.194e-05
+        }
+    ],
+    "BTC-GUP": [
+        {
+            "change_rate": 0.0032520325,
+            "day": "2018-08-20",
+            "high_price": 1.258e-05,
+            "low_price": 1.231e-05
+        },
+        {
+            "change_rate": -0.0457719162,
+            "day": "2018-08-19",
+            "high_price": 1.292e-05,
+            "low_price": 1.201e-05
+        },
+        {
+            "change_rate": 0.006245121,
+            "day": "2018-08-18",
+            "high_price": 1.37e-05,
+            "low_price": 1.171e-05
+        },
+        {
+            "change_rate": 0.0995708155,
+            "day": "2018-08-17",
+            "high_price": 1.309e-05,
+            "low_price": 1.142e-05
+        }
+    ],
+    "BTC-HMQ": [
+        {
+            "change_rate": 0.0207407407,
+            "day": "2018-08-20",
+            "high_price": 6.89e-06,
+            "low_price": 6.62e-06
+        },
+        {
+            "change_rate": -0.0073529412,
+            "day": "2018-08-19",
+            "high_price": 6.93e-06,
+            "low_price": 6.6e-06
+        },
+        {
+            "change_rate": -0.0271816881,
+            "day": "2018-08-18",
+            "high_price": 7.11e-06,
+            "low_price": 6.62e-06
+        },
+        {
+            "change_rate": 0.1201923077,
+            "day": "2018-08-17",
+            "high_price": 6.99e-06,
+            "low_price": 6.18e-06
+        }
+    ],
+    "BTC-IGNIS": [
+        {
+            "change_rate": -0.0090439276,
+            "day": "2018-08-20",
+            "high_price": 7.79e-06,
+            "low_price": 7.52e-06
+        },
+        {
+            "change_rate": 0.0065019506,
+            "day": "2018-08-19",
+            "high_price": 7.82e-06,
+            "low_price": 7.56e-06
+        },
+        {
+            "change_rate": -0.052955665,
+            "day": "2018-08-18",
+            "high_price": 8.56e-06,
+            "low_price": 7.55e-06
+        },
+        {
+            "change_rate": 0.0572916667,
+            "day": "2018-08-17",
+            "high_price": 8.12e-06,
+            "low_price": 7.57e-06
+        }
+    ],
+    "BTC-ION": [
+        {
+            "change_rate": -0.03459341,
+            "day": "2018-08-20",
+            "high_price": 0.00012989,
+            "low_price": 0.00012
+        },
+        {
+            "change_rate": -0.0008601814,
+            "day": "2018-08-19",
+            "high_price": 0.00013028,
+            "low_price": 0.00012002
+        },
+        {
+            "change_rate": -0.0394351386,
+            "day": "2018-08-18",
+            "high_price": 0.00013514,
+            "low_price": 0.00012532
+        },
+        {
+            "change_rate": 0.0202314354,
+            "day": "2018-08-17",
+            "high_price": 0.00013503,
+            "low_price": 0.00012302
+        }
+    ],
+    "BTC-IOP": [
+        {
+            "change_rate": -0.0273021002,
+            "day": "2018-08-20",
+            "high_price": 6.269e-05,
+            "low_price": 6.016e-05
+        },
+        {
+            "change_rate": 0.000161577,
+            "day": "2018-08-19",
+            "high_price": 6.445e-05,
+            "low_price": 6.08e-05
+        },
+        {
+            "change_rate": -0.0162136385,
+            "day": "2018-08-18",
+            "high_price": 6.54e-05,
+            "low_price": 5.981e-05
+        },
+        {
+            "change_rate": 0.0506012024,
+            "day": "2018-08-17",
+            "high_price": 6.38e-05,
+            "low_price": 5.803e-05
+        }
+    ],
+    "BTC-KMD": [
+        {
+            "change_rate": -0.0049672612,
+            "day": "2018-08-20",
+            "high_price": 0.00017965,
+            "low_price": 0.0001748
+        },
+        {
+            "change_rate": 0.0106680358,
+            "day": "2018-08-19",
+            "high_price": 0.00018476,
+            "low_price": 0.00017
+        },
+        {
+            "change_rate": -0.0421311475,
+            "day": "2018-08-18",
+            "high_price": 0.000194,
+            "low_price": 0.00016721
+        },
+        {
+            "change_rate": 0.1067432718,
+            "day": "2018-08-17",
+            "high_price": 0.000183,
+            "low_price": 0.0001633
+        }
+    ],
+    "BTC-KORE": [
+        {
+            "change_rate": -8.65351e-05,
+            "day": "2018-08-20",
+            "high_price": 0.00011856,
+            "low_price": 0.00011555
+        },
+        {
+            "change_rate": -0.0289891606,
+            "day": "2018-08-19",
+            "high_price": 0.00011936,
+            "low_price": 0.00011547
+        },
+        {
+            "change_rate": -0.0135112732,
+            "day": "2018-08-18",
+            "high_price": 0.00012498,
+            "low_price": 0.00011564
+        },
+        {
+            "change_rate": 0.0256759055,
+            "day": "2018-08-17",
+            "high_price": 0.00012064,
+            "low_price": 0.00010651
+        }
+    ],
+    "BTC-LBC": [
+        {
+            "change_rate": -0.0120336943,
+            "day": "2018-08-20",
+            "high_price": 8.42e-06,
+            "low_price": 8.2e-06
+        },
+        {
+            "change_rate": -0.0188902007,
+            "day": "2018-08-19",
+            "high_price": 8.83e-06,
+            "low_price": 7.99e-06
+        },
+        {
+            "change_rate": -0.0843243243,
+            "day": "2018-08-18",
+            "high_price": 9.71e-06,
+            "low_price": 7.57e-06
+        },
+        {
+            "change_rate": 0.1253041363,
+            "day": "2018-08-17",
+            "high_price": 9.47e-06,
+            "low_price": 8e-06
+        }
+    ],
+    "BTC-LOOM": [
+        {
+            "change_rate": -0.0051584377,
+            "day": "2018-08-20",
+            "high_price": 1.425e-05,
+            "low_price": 1.274e-05
+        },
+        {
+            "change_rate": 0.0454545455,
+            "day": "2018-08-19",
+            "high_price": 1.452e-05,
+            "low_price": 1.117e-05
+        },
+        {
+            "change_rate": -0.0954703833,
+            "day": "2018-08-18",
+            "high_price": 1.622e-05,
+            "low_price": 1.228e-05
+        },
+        {
+            "change_rate": 0.1657189277,
+            "day": "2018-08-17",
+            "high_price": 1.459e-05,
+            "low_price": 1.223e-05
+        }
+    ],
+    "BTC-LRC": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 1.819e-05,
+            "low_price": 1.765e-05
+        },
+        {
+            "change_rate": -0.0022547914,
+            "day": "2018-08-19",
+            "high_price": 1.868e-05,
+            "low_price": 1.696e-05
+        },
+        {
+            "change_rate": -0.1112224449,
+            "day": "2018-08-18",
+            "high_price": 2.107e-05,
+            "low_price": 1.648e-05
+        },
+        {
+            "change_rate": 0.2459425718,
+            "day": "2018-08-17",
+            "high_price": 2.321e-05,
+            "low_price": 1.557e-05
+        }
+    ],
+    "BTC-LSK": [
+        {
+            "change_rate": -0.0112924104,
+            "day": "2018-08-20",
+            "high_price": 0.0005912,
+            "low_price": 0.00057
+        },
+        {
+            "change_rate": 0.0372595092,
+            "day": "2018-08-19",
+            "high_price": 0.00061945,
+            "low_price": 0.000554
+        },
+        {
+            "change_rate": -0.0666347866,
+            "day": "2018-08-18",
+            "high_price": 0.000645,
+            "low_price": 0.00055
+        },
+        {
+            "change_rate": 0.0046052414,
+            "day": "2018-08-17",
+            "high_price": 0.00067995,
+            "low_price": 0.0005808
+        }
+    ],
+    "BTC-LTC": [
+        {
+            "change_rate": -0.0049528806,
+            "day": "2018-08-20",
+            "high_price": 0.00899,
+            "low_price": 0.0088506
+        },
+        {
+            "change_rate": -0.0006368722,
+            "day": "2018-08-19",
+            "high_price": 0.00914109,
+            "low_price": 0.00883541
+        },
+        {
+            "change_rate": -0.0455868741,
+            "day": "2018-08-18",
+            "high_price": 0.00944,
+            "low_price": 0.00871153
+        },
+        {
+            "change_rate": 0.0719006545,
+            "day": "2018-08-17",
+            "high_price": 0.00941,
+            "low_price": 0.00871998
+        }
+    ],
+    "BTC-LUN": [
+        {
+            "change_rate": -0.0185927048,
+            "day": "2018-08-20",
+            "high_price": 0.00053133,
+            "low_price": 0.00050606
+        },
+        {
+            "change_rate": 0.0149605074,
+            "day": "2018-08-19",
+            "high_price": 0.0005457,
+            "low_price": 0.00050008
+        },
+        {
+            "change_rate": -0.0838739574,
+            "day": "2018-08-18",
+            "high_price": 0.00057665,
+            "low_price": 0.00047285
+        },
+        {
+            "change_rate": 0.0969520421,
+            "day": "2018-08-17",
+            "high_price": 0.00057136,
+            "low_price": 0.00050752
+        }
+    ],
+    "BTC-MANA": [
+        {
+            "change_rate": -0.0026408451,
+            "day": "2018-08-20",
+            "high_price": 1.152e-05,
+            "low_price": 1.115e-05
+        },
+        {
+            "change_rate": 0.0299184044,
+            "day": "2018-08-19",
+            "high_price": 1.182e-05,
+            "low_price": 1.083e-05
+        },
+        {
+            "change_rate": -0.0715488215,
+            "day": "2018-08-18",
+            "high_price": 1.213e-05,
+            "low_price": 1.053e-05
+        },
+        {
+            "change_rate": 0.1368421053,
+            "day": "2018-08-17",
+            "high_price": 1.212e-05,
+            "low_price": 1.052e-05
+        }
+    ],
+    "BTC-MCO": [
+        {
+            "change_rate": -0.0091645619,
+            "day": "2018-08-20",
+            "high_price": 0.00073248,
+            "low_price": 0.00071789
+        },
+        {
+            "change_rate": -0.0027116311,
+            "day": "2018-08-19",
+            "high_price": 0.000751,
+            "low_price": 0.00071308
+        },
+        {
+            "change_rate": -0.0536667969,
+            "day": "2018-08-18",
+            "high_price": 0.00079277,
+            "low_price": 0.0007
+        },
+        {
+            "change_rate": 0.0640922574,
+            "day": "2018-08-17",
+            "high_price": 0.0007698,
+            "low_price": 0.00071898
+        }
+    ],
+    "BTC-MEME": [
+        {
+            "change_rate": 0.0752056404,
+            "day": "2018-08-20",
+            "high_price": 9.35e-06,
+            "low_price": 8.54e-06
+        },
+        {
+            "change_rate": -0.0011737089,
+            "day": "2018-08-19",
+            "high_price": 9.6e-06,
+            "low_price": 8.13e-06
+        },
+        {
+            "change_rate": -0.0739130435,
+            "day": "2018-08-18",
+            "high_price": 9.98e-06,
+            "low_price": 8.19e-06
+        },
+        {
+            "change_rate": 0.1794871795,
+            "day": "2018-08-17",
+            "high_price": 9.65e-06,
+            "low_price": 7.76e-06
+        }
+    ],
+    "BTC-MER": [
+        {
+            "change_rate": -0.0168,
+            "day": "2018-08-20",
+            "high_price": 1.26e-05,
+            "low_price": 1.229e-05
+        },
+        {
+            "change_rate": -0.0071485306,
+            "day": "2018-08-19",
+            "high_price": 1.27e-05,
+            "low_price": 1.205e-05
+        },
+        {
+            "change_rate": -0.0117739403,
+            "day": "2018-08-18",
+            "high_price": 1.396e-05,
+            "low_price": 1.196e-05
+        },
+        {
+            "change_rate": 0.0590191189,
+            "day": "2018-08-17",
+            "high_price": 1.3e-05,
+            "low_price": 1.172e-05
+        }
+    ],
+    "BTC-MFT": [
+        {
+            "change_rate": -0.0396039604,
+            "day": "2018-08-20",
+            "high_price": 1.08e-06,
+            "low_price": 9.7e-07
+        },
+        {
+            "change_rate": 0.0744680851,
+            "day": "2018-08-19",
+            "high_price": 1.04e-06,
+            "low_price": 9e-07
+        },
+        {
+            "change_rate": -0.0693069307,
+            "day": "2018-08-18",
+            "high_price": 1.04e-06,
+            "low_price": 8.6e-07
+        },
+        {
+            "change_rate": 0.2023809524,
+            "day": "2018-08-17",
+            "high_price": 1.07e-06,
+            "low_price": 8.1e-07
+        }
+    ],
+    "BTC-MONA": [
+        {
+            "change_rate": -0.0127681716,
+            "day": "2018-08-20",
+            "high_price": 0.00025312,
+            "low_price": 0.00022271
+        },
+        {
+            "change_rate": 0.0079070518,
+            "day": "2018-08-19",
+            "high_price": 0.00025,
+            "low_price": 0.00024183
+        },
+        {
+            "change_rate": -0.0181025946,
+            "day": "2018-08-18",
+            "high_price": 0.00025673,
+            "low_price": 0.00023925
+        },
+        {
+            "change_rate": 0.0432680387,
+            "day": "2018-08-17",
+            "high_price": 0.00025923,
+            "low_price": 0.00023801
+        }
+    ],
+    "BTC-MUE": [
+        {
+            "change_rate": -0.0391304348,
+            "day": "2018-08-20",
+            "high_price": 4.64e-06,
+            "low_price": 4.3e-06
+        },
+        {
+            "change_rate": -0.0064794816,
+            "day": "2018-08-19",
+            "high_price": 4.65e-06,
+            "low_price": 3.17e-06
+        },
+        {
+            "change_rate": 0.0198237885,
+            "day": "2018-08-18",
+            "high_price": 4.87e-06,
+            "low_price": 4.38e-06
+        },
+        {
+            "change_rate": 0.0835322196,
+            "day": "2018-08-17",
+            "high_price": 4.74e-06,
+            "low_price": 4e-06
+        }
+    ],
+    "BTC-NAV": [
+        {
+            "change_rate": -0.0087303567,
+            "day": "2018-08-20",
+            "high_price": 4.028e-05,
+            "low_price": 3.906e-05
+        },
+        {
+            "change_rate": 0.0258444217,
+            "day": "2018-08-19",
+            "high_price": 4.238e-05,
+            "low_price": 3.835e-05
+        },
+        {
+            "change_rate": -0.0530651805,
+            "day": "2018-08-18",
+            "high_price": 4.574e-05,
+            "low_price": 3.754e-05
+        },
+        {
+            "change_rate": 0.1236046828,
+            "day": "2018-08-17",
+            "high_price": 4.168e-05,
+            "low_price": 3.571e-05
+        }
+    ],
+    "BTC-NBT": [
+        {
+            "change_rate": -0.0103571429,
+            "day": "2018-08-20",
+            "high_price": 2.827e-05,
+            "low_price": 2.67e-05
+        },
+        {
+            "change_rate": 0.0510510511,
+            "day": "2018-08-19",
+            "high_price": 2.91e-05,
+            "low_price": 2.601e-05
+        },
+        {
+            "change_rate": 0.0651739304,
+            "day": "2018-08-18",
+            "high_price": 3.082e-05,
+            "low_price": 2.451e-05
+        },
+        {
+            "change_rate": 0.0803455724,
+            "day": "2018-08-17",
+            "high_price": 2.94e-05,
+            "low_price": 2.173e-05
+        }
+    ],
+    "BTC-NEO": [
+        {
+            "change_rate": -0.0090260446,
+            "day": "2018-08-20",
+            "high_price": 0.00305704,
+            "low_price": 0.00293079
+        },
+        {
+            "change_rate": 0.029544397,
+            "day": "2018-08-19",
+            "high_price": 0.00313342,
+            "low_price": 0.00279352
+        },
+        {
+            "change_rate": -0.0621125188,
+            "day": "2018-08-18",
+            "high_price": 0.00317381,
+            "low_price": 0.00273291
+        },
+        {
+            "change_rate": 0.2103750427,
+            "day": "2018-08-17",
+            "high_price": 0.00316,
+            "low_price": 0.0025721
+        }
+    ],
+    "BTC-NGC": [
+        {
+            "change_rate": -0.0222795497,
+            "day": "2018-08-20",
+            "high_price": 4.253e-05,
+            "low_price": 4.169e-05
+        },
+        {
+            "change_rate": -0.0074487896,
+            "day": "2018-08-19",
+            "high_price": 4.293e-05,
+            "low_price": 4.162e-05
+        },
+        {
+            "change_rate": 0.0098730606,
+            "day": "2018-08-18",
+            "high_price": 4.479e-05,
+            "low_price": 4.162e-05
+        },
+        {
+            "change_rate": 0.0285299807,
+            "day": "2018-08-17",
+            "high_price": 4.304e-05,
+            "low_price": 3.99e-05
+        }
+    ],
+    "BTC-NMR": [
+        {
+            "change_rate": -0.0322799255,
+            "day": "2018-08-20",
+            "high_price": 0.00100233,
+            "low_price": 0.00093001
+        },
+        {
+            "change_rate": 0.0413246298,
+            "day": "2018-08-19",
+            "high_price": 0.00101811,
+            "low_price": 0.00096364
+        },
+        {
+            "change_rate": -0.0747078424,
+            "day": "2018-08-18",
+            "high_price": 0.00108022,
+            "low_price": 0.00096315
+        },
+        {
+            "change_rate": -0.0082,
+            "day": "2018-08-17",
+            "high_price": 0.0010799,
+            "low_price": 0.00096153
+        }
+    ],
+    "BTC-NXS": [
+        {
+            "change_rate": -0.0033167496,
+            "day": "2018-08-20",
+            "high_price": 0.0001293,
+            "low_price": 0.00012444
+        },
+        {
+            "change_rate": 0.0215392062,
+            "day": "2018-08-19",
+            "high_price": 0.000139,
+            "low_price": 0.00012233
+        },
+        {
+            "change_rate": -0.0714606742,
+            "day": "2018-08-18",
+            "high_price": 0.000137,
+            "low_price": 0.00012099
+        },
+        {
+            "change_rate": 0.0970498808,
+            "day": "2018-08-17",
+            "high_price": 0.00013712,
+            "low_price": 0.0001197
+        }
+    ],
+    "BTC-NXT": [
+        {
+            "change_rate": -0.0101476015,
+            "day": "2018-08-20",
+            "high_price": 1.09e-05,
+            "low_price": 1.069e-05
+        },
+        {
+            "change_rate": -0.0018416206,
+            "day": "2018-08-19",
+            "high_price": 1.115e-05,
+            "low_price": 1.065e-05
+        },
+        {
+            "change_rate": -0.0531822145,
+            "day": "2018-08-18",
+            "high_price": 1.198e-05,
+            "low_price": 1.056e-05
+        },
+        {
+            "change_rate": 0.0780075188,
+            "day": "2018-08-17",
+            "high_price": 1.158e-05,
+            "low_price": 1.053e-05
+        }
+    ],
+    "BTC-OCN": [
+        {
+            "change_rate": 0.0185185185,
+            "day": "2018-08-20",
+            "high_price": 5.7e-07,
+            "low_price": 5.3e-07
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-19",
+            "high_price": 5.6e-07,
+            "low_price": 5.1e-07
+        },
+        {
+            "change_rate": -0.0847457627,
+            "day": "2018-08-18",
+            "high_price": 6.2e-07,
+            "low_price": 5.1e-07
+        },
+        {
+            "change_rate": 0.18,
+            "day": "2018-08-17",
+            "high_price": 6.2e-07,
+            "low_price": 4.9e-07
+        }
+    ],
+    "BTC-OK": [
+        {
+            "change_rate": -0.0213464696,
+            "day": "2018-08-20",
+            "high_price": 6.19e-06,
+            "low_price": 5.96e-06
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-19",
+            "high_price": 6.26e-06,
+            "low_price": 5.9e-06
+        },
+        {
+            "change_rate": -0.0161550889,
+            "day": "2018-08-18",
+            "high_price": 6.55e-06,
+            "low_price": 5.9e-06
+        },
+        {
+            "change_rate": 0.0316666667,
+            "day": "2018-08-17",
+            "high_price": 6.66e-06,
+            "low_price": 5.7e-06
+        }
+    ],
+    "BTC-OMG": [
+        {
+            "change_rate": -0.0128473677,
+            "day": "2018-08-20",
+            "high_price": 0.000653,
+            "low_price": 0.00062187
+        },
+        {
+            "change_rate": 0.0212492869,
+            "day": "2018-08-19",
+            "high_price": 0.00068,
+            "low_price": 0.00062578
+        },
+        {
+            "change_rate": -0.0635683761,
+            "day": "2018-08-18",
+            "high_price": 0.000696,
+            "low_price": 0.00060311
+        },
+        {
+            "change_rate": 0.1507214206,
+            "day": "2018-08-17",
+            "high_price": 0.00068569,
+            "low_price": 0.00058095
+        }
+    ],
+    "BTC-PART": [
+        {
+            "change_rate": -0.0015477154,
+            "day": "2018-08-20",
+            "high_price": 0.00057339,
+            "low_price": 0.00055456
+        },
+        {
+            "change_rate": -0.0297104046,
+            "day": "2018-08-19",
+            "high_price": 0.00060592,
+            "low_price": 0.0005412
+        },
+        {
+            "change_rate": -0.0718460442,
+            "day": "2018-08-18",
+            "high_price": 0.0006289,
+            "low_price": 0.0005766
+        },
+        {
+            "change_rate": 0.0435019751,
+            "day": "2018-08-17",
+            "high_price": 0.00064451,
+            "low_price": 0.0006
+        }
+    ],
+    "BTC-PAY": [
+        {
+            "change_rate": -0.0219134153,
+            "day": "2018-08-20",
+            "high_price": 9.5e-05,
+            "low_price": 8.982e-05
+        },
+        {
+            "change_rate": 0.0711014426,
+            "day": "2018-08-19",
+            "high_price": 9.54e-05,
+            "low_price": 8.517e-05
+        },
+        {
+            "change_rate": -0.1140190708,
+            "day": "2018-08-18",
+            "high_price": 9.894e-05,
+            "low_price": 8.533e-05
+        },
+        {
+            "change_rate": 0.1374177916,
+            "day": "2018-08-17",
+            "high_price": 9.97e-05,
+            "low_price": 8.654e-05
+        }
+    ],
+    "BTC-PIVX": [
+        {
+            "change_rate": -0.0035205171,
+            "day": "2018-08-20",
+            "high_price": 0.00017619,
+            "low_price": 0.00016553
+        },
+        {
+            "change_rate": -0.0023606633,
+            "day": "2018-08-19",
+            "high_price": 0.00018298,
+            "low_price": 0.00016984
+        },
+        {
+            "change_rate": -0.0260206371,
+            "day": "2018-08-18",
+            "high_price": 0.00019,
+            "low_price": 0.000169
+        },
+        {
+            "change_rate": 0.0492497793,
+            "day": "2018-08-17",
+            "high_price": 0.00018403,
+            "low_price": 0.00017052
+        }
+    ],
+    "BTC-POLY": [
+        {
+            "change_rate": -0.0279402209,
+            "day": "2018-08-20",
+            "high_price": 3.151e-05,
+            "low_price": 2.992e-05
+        },
+        {
+            "change_rate": 0.0141680395,
+            "day": "2018-08-19",
+            "high_price": 3.218e-05,
+            "low_price": 2.955e-05
+        },
+        {
+            "change_rate": -0.0727161625,
+            "day": "2018-08-18",
+            "high_price": 3.428e-05,
+            "low_price": 2.896e-05
+        },
+        {
+            "change_rate": 0.0812685828,
+            "day": "2018-08-17",
+            "high_price": 3.275e-05,
+            "low_price": 2.981e-05
+        }
+    ],
+    "BTC-POWR": [
+        {
+            "change_rate": -0.0064780089,
+            "day": "2018-08-20",
+            "high_price": 3e-05,
+            "low_price": 2.9e-05
+        },
+        {
+            "change_rate": 0.0075575404,
+            "day": "2018-08-19",
+            "high_price": 3.043e-05,
+            "low_price": 2.872e-05
+        },
+        {
+            "change_rate": -0.0908806996,
+            "day": "2018-08-18",
+            "high_price": 3.364e-05,
+            "low_price": 2.812e-05
+        },
+        {
+            "change_rate": 0.1029968998,
+            "day": "2018-08-17",
+            "high_price": 3.316e-05,
+            "low_price": 2.899e-05
+        }
+    ],
+    "BTC-PRO": [
+        {
+            "change_rate": -0.0444715731,
+            "day": "2018-08-20",
+            "high_price": 5.877e-05,
+            "low_price": 5.479e-05
+        },
+        {
+            "change_rate": -0.0147766323,
+            "day": "2018-08-19",
+            "high_price": 6.34e-05,
+            "low_price": 5.4e-05
+        },
+        {
+            "change_rate": 0.0086655113,
+            "day": "2018-08-18",
+            "high_price": 6.028e-05,
+            "low_price": 5.505e-05
+        },
+        {
+            "change_rate": 0.0487095602,
+            "day": "2018-08-17",
+            "high_price": 5.858e-05,
+            "low_price": 5.3e-05
+        }
+    ],
+    "BTC-PTOY": [
+        {
+            "change_rate": -0.0052447552,
+            "day": "2018-08-20",
+            "high_price": 5.7e-06,
+            "low_price": 5.57e-06
+        },
+        {
+            "change_rate": 0.0196078431,
+            "day": "2018-08-19",
+            "high_price": 6.83e-06,
+            "low_price": 5.39e-06
+        },
+        {
+            "change_rate": -0.0634390651,
+            "day": "2018-08-18",
+            "high_price": 5.99e-06,
+            "low_price": 5.54e-06
+        },
+        {
+            "change_rate": 0.0970695971,
+            "day": "2018-08-17",
+            "high_price": 6e-06,
+            "low_price": 5.25e-06
+        }
+    ],
+    "BTC-QRL": [
+        {
+            "change_rate": 0.0892207544,
+            "day": "2018-08-20",
+            "high_price": 5.809e-05,
+            "low_price": 5.223e-05
+        },
+        {
+            "change_rate": -0.0365246265,
+            "day": "2018-08-19",
+            "high_price": 5.42e-05,
+            "low_price": 5.2e-05
+        },
+        {
+            "change_rate": -0.0051385575,
+            "day": "2018-08-18",
+            "high_price": 5.48e-05,
+            "low_price": 5.27e-05
+        },
+        {
+            "change_rate": 0.0458733205,
+            "day": "2018-08-17",
+            "high_price": 5.479e-05,
+            "low_price": 5.131e-05
+        }
+    ],
+    "BTC-QTUM": [
+        {
+            "change_rate": -0.0102114216,
+            "day": "2018-08-20",
+            "high_price": 0.00071918,
+            "low_price": 0.00069032
+        },
+        {
+            "change_rate": 0.0078179415,
+            "day": "2018-08-19",
+            "high_price": 0.00072986,
+            "low_price": 0.00069418
+        },
+        {
+            "change_rate": -0.0795368311,
+            "day": "2018-08-18",
+            "high_price": 0.00078892,
+            "low_price": 0.000683
+        },
+        {
+            "change_rate": 0.1101105317,
+            "day": "2018-08-17",
+            "high_price": 0.00076724,
+            "low_price": 0.00068946
+        }
+    ],
+    "BTC-RADS": [
+        {
+            "change_rate": 0.0158224885,
+            "day": "2018-08-20",
+            "high_price": 0.00021888,
+            "low_price": 0.00021408
+        },
+        {
+            "change_rate": -0.0511260161,
+            "day": "2018-08-19",
+            "high_price": 0.00022555,
+            "low_price": 0.00021001
+        },
+        {
+            "change_rate": -0.0121544537,
+            "day": "2018-08-18",
+            "high_price": 0.00024885,
+            "low_price": 0.0002
+        },
+        {
+            "change_rate": 0.0614316986,
+            "day": "2018-08-17",
+            "high_price": 0.00023845,
+            "low_price": 0.00020001
+        }
+    ],
+    "BTC-RCN": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 3.42e-06,
+            "low_price": 3.26e-06
+        },
+        {
+            "change_rate": 0.0340557276,
+            "day": "2018-08-19",
+            "high_price": 3.39e-06,
+            "low_price": 3.21e-06
+        },
+        {
+            "change_rate": -0.0527859238,
+            "day": "2018-08-18",
+            "high_price": 3.47e-06,
+            "low_price": 3.2e-06
+        },
+        {
+            "change_rate": 0.089456869,
+            "day": "2018-08-17",
+            "high_price": 3.42e-06,
+            "low_price": 3.1e-06
+        }
+    ],
+    "BTC-RDD": [
+        {
+            "change_rate": 0.1,
+            "day": "2018-08-20",
+            "high_price": 4.6e-07,
+            "low_price": 4e-07
+        },
+        {
+            "change_rate": 0.1111111111,
+            "day": "2018-08-19",
+            "high_price": 4.2e-07,
+            "low_price": 3.6e-07
+        },
+        {
+            "change_rate": -0.027027027,
+            "day": "2018-08-18",
+            "high_price": 3.9e-07,
+            "low_price": 3.6e-07
+        },
+        {
+            "change_rate": 0.1212121212,
+            "day": "2018-08-17",
+            "high_price": 3.8e-07,
+            "low_price": 3.2e-07
+        }
+    ],
+    "BTC-REP": [
+        {
+            "change_rate": 0.0122691701,
+            "day": "2018-08-20",
+            "high_price": 0.00294142,
+            "low_price": 0.00286436
+        },
+        {
+            "change_rate": 0.0238991873,
+            "day": "2018-08-19",
+            "high_price": 0.00299,
+            "low_price": 0.00277545
+        },
+        {
+            "change_rate": -0.0474802321,
+            "day": "2018-08-18",
+            "high_price": 0.00305453,
+            "low_price": 0.00274
+        },
+        {
+            "change_rate": 0.0972344791,
+            "day": "2018-08-17",
+            "high_price": 0.00300731,
+            "low_price": 0.00263001
+        }
+    ],
+    "BTC-RFR": [
+        {
+            "change_rate": -0.0133333333,
+            "day": "2018-08-20",
+            "high_price": 7.7e-07,
+            "low_price": 7.3e-07
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-19",
+            "high_price": 8e-07,
+            "low_price": 6.9e-07
+        },
+        {
+            "change_rate": 0.0714285714,
+            "day": "2018-08-18",
+            "high_price": 8.7e-07,
+            "low_price": 7e-07
+        },
+        {
+            "change_rate": 0.1290322581,
+            "day": "2018-08-17",
+            "high_price": 7.3e-07,
+            "low_price": 6.2e-07
+        }
+    ],
+    "BTC-RLC": [
+        {
+            "change_rate": -0.015,
+            "day": "2018-08-20",
+            "high_price": 5.431e-05,
+            "low_price": 5.251e-05
+        },
+        {
+            "change_rate": 0.04307514,
+            "day": "2018-08-19",
+            "high_price": 5.5e-05,
+            "low_price": 4.904e-05
+        },
+        {
+            "change_rate": -0.0361199032,
+            "day": "2018-08-18",
+            "high_price": 5.699e-05,
+            "low_price": 4.966e-05
+        },
+        {
+            "change_rate": 0.1184922949,
+            "day": "2018-08-17",
+            "high_price": 5.931e-05,
+            "low_price": 4.719e-05
+        }
+    ],
+    "BTC-RVN": [
+        {
+            "change_rate": -0.0234113712,
+            "day": "2018-08-20",
+            "high_price": 3.01e-06,
+            "low_price": 2.91e-06
+        },
+        {
+            "change_rate": 0.0101351351,
+            "day": "2018-08-19",
+            "high_price": 3.03e-06,
+            "low_price": 2.89e-06
+        },
+        {
+            "change_rate": -0.0358306189,
+            "day": "2018-08-18",
+            "high_price": 3.08e-06,
+            "low_price": 2.88e-06
+        },
+        {
+            "change_rate": 0.051369863,
+            "day": "2018-08-17",
+            "high_price": 3.09e-06,
+            "low_price": 2.89e-06
+        }
+    ],
+    "BTC-RVR": [
+        {
+            "change_rate": 0.0174418605,
+            "day": "2018-08-20",
+            "high_price": 5.29e-06,
+            "low_price": 5.04e-06
+        },
+        {
+            "change_rate": 0.0157480315,
+            "day": "2018-08-19",
+            "high_price": 5.4e-06,
+            "low_price": 4.9e-06
+        },
+        {
+            "change_rate": -0.041509434,
+            "day": "2018-08-18",
+            "high_price": 5.5e-06,
+            "low_price": 5.04e-06
+        },
+        {
+            "change_rate": 0.0685483871,
+            "day": "2018-08-17",
+            "high_price": 5.3e-06,
+            "low_price": 4.82e-06
+        }
+    ],
+    "BTC-SALT": [
+        {
+            "change_rate": 0.0033898305,
+            "day": "2018-08-20",
+            "high_price": 7.46e-05,
+            "low_price": 7.211e-05
+        },
+        {
+            "change_rate": 0.0409315455,
+            "day": "2018-08-19",
+            "high_price": 7.433e-05,
+            "low_price": 6.802e-05
+        },
+        {
+            "change_rate": -0.0832039337,
+            "day": "2018-08-18",
+            "high_price": 8.044e-05,
+            "low_price": 6.685e-05
+        },
+        {
+            "change_rate": 0.1319759777,
+            "day": "2018-08-17",
+            "high_price": 8.383e-05,
+            "low_price": 6.705e-05
+        }
+    ],
+    "BTC-SBD": [
+        {
+            "change_rate": -0.0241746816,
+            "day": "2018-08-20",
+            "high_price": 0.00015388,
+            "low_price": 0.00015
+        },
+        {
+            "change_rate": 0.0048321797,
+            "day": "2018-08-19",
+            "high_price": 0.00016,
+            "low_price": 0.00015103
+        },
+        {
+            "change_rate": -0.0356423174,
+            "day": "2018-08-18",
+            "high_price": 0.00016291,
+            "low_price": 0.00015105
+        },
+        {
+            "change_rate": 0.0313027666,
+            "day": "2018-08-17",
+            "high_price": 0.000159,
+            "low_price": 0.0001403
+        }
+    ],
+    "BTC-SC": [
+        {
+            "change_rate": -0.0217391304,
+            "day": "2018-08-20",
+            "high_price": 9.2e-07,
+            "low_price": 8.8e-07
+        },
+        {
+            "change_rate": 0.0574712644,
+            "day": "2018-08-19",
+            "high_price": 9.5e-07,
+            "low_price": 8.5e-07
+        },
+        {
+            "change_rate": -0.064516129,
+            "day": "2018-08-18",
+            "high_price": 1.03e-06,
+            "low_price": 8.3e-07
+        },
+        {
+            "change_rate": 0.1481481481,
+            "day": "2018-08-17",
+            "high_price": 9.6e-07,
+            "low_price": 8.1e-07
+        }
+    ],
+    "BTC-SHIFT": [
+        {
+            "change_rate": 0.0012592019,
+            "day": "2018-08-20",
+            "high_price": 0.00010347,
+            "low_price": 0.00010151
+        },
+        {
+            "change_rate": -0.0249338874,
+            "day": "2018-08-19",
+            "high_price": 0.00010571,
+            "low_price": 0.00010105
+        },
+        {
+            "change_rate": -0.0002832594,
+            "day": "2018-08-18",
+            "high_price": 0.00010591,
+            "low_price": 0.00010401
+        },
+        {
+            "change_rate": 0.0818181818,
+            "day": "2018-08-17",
+            "high_price": 0.00010999,
+            "low_price": 9.79e-05
+        }
+    ],
+    "BTC-SIB": [
+        {
+            "change_rate": 0.0025281544,
+            "day": "2018-08-20",
+            "high_price": 4.433e-05,
+            "low_price": 4.36e-05
+        },
+        {
+            "change_rate": -0.0102365787,
+            "day": "2018-08-19",
+            "high_price": 4.426e-05,
+            "low_price": 4.29e-05
+        },
+        {
+            "change_rate": -0.0291519435,
+            "day": "2018-08-18",
+            "high_price": 4.6e-05,
+            "low_price": 4.298e-05
+        },
+        {
+            "change_rate": 0.0031014621,
+            "day": "2018-08-17",
+            "high_price": 4.554e-05,
+            "low_price": 4.053e-05
+        }
+    ],
+    "BTC-SLS": [
+        {
+            "change_rate": -1.19111e-05,
+            "day": "2018-08-20",
+            "high_price": 0.00254895,
+            "low_price": 0.00251862
+        },
+        {
+            "change_rate": -0.0329101967,
+            "day": "2018-08-19",
+            "high_price": 0.00261,
+            "low_price": 0.00241001
+        },
+        {
+            "change_rate": 0.0016769231,
+            "day": "2018-08-18",
+            "high_price": 0.00279998,
+            "low_price": 0.0025725
+        },
+        {
+            "change_rate": 0.04,
+            "day": "2018-08-17",
+            "high_price": 0.0026,
+            "low_price": 0.00241012
+        }
+    ],
+    "BTC-SNT": [
+        {
+            "change_rate": -0.0127388535,
+            "day": "2018-08-20",
+            "high_price": 6.39e-06,
+            "low_price": 6.14e-06
+        },
+        {
+            "change_rate": 0.0311986864,
+            "day": "2018-08-19",
+            "high_price": 6.4e-06,
+            "low_price": 6.04e-06
+        },
+        {
+            "change_rate": -0.0499219969,
+            "day": "2018-08-18",
+            "high_price": 6.73e-06,
+            "low_price": 5.93e-06
+        },
+        {
+            "change_rate": 0.1089965398,
+            "day": "2018-08-17",
+            "high_price": 6.5e-06,
+            "low_price": 5.74e-06
+        }
+    ],
+    "BTC-SPHR": [
+        {
+            "change_rate": 0.001618123,
+            "day": "2018-08-20",
+            "high_price": 6.22e-05,
+            "low_price": 6.176e-05
+        },
+        {
+            "change_rate": 0.0474576271,
+            "day": "2018-08-19",
+            "high_price": 6.187e-05,
+            "low_price": 5.877e-05
+        },
+        {
+            "change_rate": -0.0294456325,
+            "day": "2018-08-18",
+            "high_price": 6.46e-05,
+            "low_price": 5.9e-05
+        },
+        {
+            "change_rate": 0.0551987502,
+            "day": "2018-08-17",
+            "high_price": 6.35e-05,
+            "low_price": 5.624e-05
+        }
+    ],
+    "BTC-SRN": [
+        {
+            "change_rate": -0.0142857143,
+            "day": "2018-08-20",
+            "high_price": 1.43e-05,
+            "low_price": 1.371e-05
+        },
+        {
+            "change_rate": 0.0439970172,
+            "day": "2018-08-19",
+            "high_price": 1.478e-05,
+            "low_price": 1.319e-05
+        },
+        {
+            "change_rate": 0.0779742765,
+            "day": "2018-08-18",
+            "high_price": 1.539e-05,
+            "low_price": 1.186e-05
+        },
+        {
+            "change_rate": 0.1207207207,
+            "day": "2018-08-17",
+            "high_price": 1.27e-05,
+            "low_price": 1.081e-05
+        }
+    ],
+    "BTC-STEEM": [
+        {
+            "change_rate": -0.0312045942,
+            "day": "2018-08-20",
+            "high_price": 0.0001449,
+            "low_price": 0.00014
+        },
+        {
+            "change_rate": 0.0240187048,
+            "day": "2018-08-19",
+            "high_price": 0.000147,
+            "low_price": 0.0001375
+        },
+        {
+            "change_rate": -0.0554142685,
+            "day": "2018-08-18",
+            "high_price": 0.000156,
+            "low_price": 0.0001375
+        },
+        {
+            "change_rate": 0.0976272681,
+            "day": "2018-08-17",
+            "high_price": 0.0001513,
+            "low_price": 0.00013613
+        }
+    ],
+    "BTC-STORJ": [
+        {
+            "change_rate": -0.0047588146,
+            "day": "2018-08-20",
+            "high_price": 4.71e-05,
+            "low_price": 4.601e-05
+        },
+        {
+            "change_rate": 0.0045632334,
+            "day": "2018-08-19",
+            "high_price": 4.767e-05,
+            "low_price": 4.501e-05
+        },
+        {
+            "change_rate": -0.0879904875,
+            "day": "2018-08-18",
+            "high_price": 5.15e-05,
+            "low_price": 4.178e-05
+        },
+        {
+            "change_rate": 0.1148917366,
+            "day": "2018-08-17",
+            "high_price": 5.053e-05,
+            "low_price": 4.47e-05
+        }
+    ],
+    "BTC-STORM": [
+        {
+            "change_rate": -0.0072463768,
+            "day": "2018-08-20",
+            "high_price": 1.41e-06,
+            "low_price": 1.35e-06
+        },
+        {
+            "change_rate": 0.0072992701,
+            "day": "2018-08-19",
+            "high_price": 1.45e-06,
+            "low_price": 1.31e-06
+        },
+        {
+            "change_rate": 0.0148148148,
+            "day": "2018-08-18",
+            "high_price": 1.62e-06,
+            "low_price": 1.25e-06
+        },
+        {
+            "change_rate": 0.1946902655,
+            "day": "2018-08-17",
+            "high_price": 1.36e-06,
+            "low_price": 1.11e-06
+        }
+    ],
+    "BTC-STRAT": [
+        {
+            "change_rate": -0.0100055825,
+            "day": "2018-08-20",
+            "high_price": 0.00023382,
+            "low_price": 0.00023
+        },
+        {
+            "change_rate": 0.0488694712,
+            "day": "2018-08-19",
+            "high_price": 0.00023682,
+            "low_price": 0.00021943
+        },
+        {
+            "change_rate": -0.0632067511,
+            "day": "2018-08-18",
+            "high_price": 0.00024488,
+            "low_price": 0.0002168
+        },
+        {
+            "change_rate": 0.1313189174,
+            "day": "2018-08-17",
+            "high_price": 0.000245,
+            "low_price": 0.00020936
+        }
+    ],
+    "BTC-SWT": [
+        {
+            "change_rate": -0.0136251032,
+            "day": "2018-08-20",
+            "high_price": 4.9e-05,
+            "low_price": 4.513e-05
+        },
+        {
+            "change_rate": 0.1107544141,
+            "day": "2018-08-19",
+            "high_price": 4.887e-05,
+            "low_price": 4.21e-05
+        },
+        {
+            "change_rate": -0.0166854566,
+            "day": "2018-08-18",
+            "high_price": 4.552e-05,
+            "low_price": 4.218e-05
+        },
+        {
+            "change_rate": 0.0627845675,
+            "day": "2018-08-17",
+            "high_price": 4.537e-05,
+            "low_price": 4.002e-05
+        }
+    ],
+    "BTC-SYNX": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 1.221e-05,
+            "low_price": 1.153e-05
+        },
+        {
+            "change_rate": -0.0066225166,
+            "day": "2018-08-19",
+            "high_price": 1.214e-05,
+            "low_price": 1.125e-05
+        },
+        {
+            "change_rate": -0.0289389068,
+            "day": "2018-08-18",
+            "high_price": 1.434e-05,
+            "low_price": 1.165e-05
+        },
+        {
+            "change_rate": 0.048020219,
+            "day": "2018-08-17",
+            "high_price": 1.27e-05,
+            "low_price": 1.173e-05
+        }
+    ],
+    "BTC-SYS": [
+        {
+            "change_rate": 0.0154241645,
+            "day": "2018-08-20",
+            "high_price": 1.648e-05,
+            "low_price": 1.557e-05
+        },
+        {
+            "change_rate": 0.0236842105,
+            "day": "2018-08-19",
+            "high_price": 1.615e-05,
+            "low_price": 1.504e-05
+        },
+        {
+            "change_rate": -0.0541381456,
+            "day": "2018-08-18",
+            "high_price": 1.648e-05,
+            "low_price": 1.486e-05
+        },
+        {
+            "change_rate": 0.0763563295,
+            "day": "2018-08-17",
+            "high_price": 1.643e-05,
+            "low_price": 1.476e-05
+        }
+    ],
+    "BTC-TIX": [
+        {
+            "change_rate": -0.023255814,
+            "day": "2018-08-20",
+            "high_price": 2.265e-05,
+            "low_price": 2.1e-05
+        },
+        {
+            "change_rate": 0.0175106484,
+            "day": "2018-08-19",
+            "high_price": 2.235e-05,
+            "low_price": 2.028e-05
+        },
+        {
+            "change_rate": -0.097394276,
+            "day": "2018-08-18",
+            "high_price": 2.343e-05,
+            "low_price": 2.107e-05
+        },
+        {
+            "change_rate": 0.1137012369,
+            "day": "2018-08-17",
+            "high_price": 2.392e-05,
+            "low_price": 2.073e-05
+        }
+    ],
+    "BTC-TRX": [
+        {
+            "change_rate": -0.0058651026,
+            "day": "2018-08-20",
+            "high_price": 3.47e-06,
+            "low_price": 3.36e-06
+        },
+        {
+            "change_rate": 0.0209580838,
+            "day": "2018-08-19",
+            "high_price": 3.53e-06,
+            "low_price": 3.27e-06
+        },
+        {
+            "change_rate": -0.0538243626,
+            "day": "2018-08-18",
+            "high_price": 3.75e-06,
+            "low_price": 3.21e-06
+        },
+        {
+            "change_rate": 0.1498371336,
+            "day": "2018-08-17",
+            "high_price": 3.57e-06,
+            "low_price": 3.04e-06
+        }
+    ],
+    "BTC-TUBE": [
+        {
+            "change_rate": 0.0035087719,
+            "day": "2018-08-20",
+            "high_price": 5.75e-06,
+            "low_price": 5.46e-06
+        },
+        {
+            "change_rate": -0.0562913907,
+            "day": "2018-08-19",
+            "high_price": 6.38e-06,
+            "low_price": 5.55e-06
+        },
+        {
+            "change_rate": -0.047318612,
+            "day": "2018-08-18",
+            "high_price": 6.93e-06,
+            "low_price": 5.63e-06
+        },
+        {
+            "change_rate": 0.0745762712,
+            "day": "2018-08-17",
+            "high_price": 6.47e-06,
+            "low_price": 5.9e-06
+        }
+    ],
+    "BTC-TUSD": [
+        {
+            "change_rate": 0.0031266285,
+            "day": "2018-08-20",
+            "high_price": 0.00015519,
+            "low_price": 0.0001528
+        },
+        {
+            "change_rate": -0.0224146714,
+            "day": "2018-08-19",
+            "high_price": 0.00015937,
+            "low_price": 0.00015257
+        },
+        {
+            "change_rate": 0.0272108844,
+            "day": "2018-08-18",
+            "high_price": 0.00016,
+            "low_price": 0.00015111
+        },
+        {
+            "change_rate": -0.034970332,
+            "day": "2018-08-17",
+            "high_price": 0.00015912,
+            "low_price": 0.000152
+        }
+    ],
+    "BTC-TX": [
+        {
+            "change_rate": -0.0188427864,
+            "day": "2018-08-20",
+            "high_price": 5.18e-05,
+            "low_price": 4.948e-05
+        },
+        {
+            "change_rate": 0.016051054,
+            "day": "2018-08-19",
+            "high_price": 5.264e-05,
+            "low_price": 5.171e-05
+        },
+        {
+            "change_rate": -0.033819133,
+            "day": "2018-08-18",
+            "high_price": 5.74e-05,
+            "low_price": 5.171e-05
+        },
+        {
+            "change_rate": 0.0221543163,
+            "day": "2018-08-17",
+            "high_price": 5.38e-05,
+            "low_price": 5.208e-05
+        }
+    ],
+    "BTC-UBQ": [
+        {
+            "change_rate": -0.0507389736,
+            "day": "2018-08-20",
+            "high_price": 8.593e-05,
+            "low_price": 8.156e-05
+        },
+        {
+            "change_rate": -0.0457523598,
+            "day": "2018-08-19",
+            "high_price": 8.975e-05,
+            "low_price": 8.393e-05
+        },
+        {
+            "change_rate": -0.0474931246,
+            "day": "2018-08-18",
+            "high_price": 9.456e-05,
+            "low_price": 8.76e-05
+        },
+        {
+            "change_rate": 0.1169659735,
+            "day": "2018-08-17",
+            "high_price": 9.458e-05,
+            "low_price": 8.15e-05
+        }
+    ],
+    "BTC-UKG": [
+        {
+            "change_rate": 0.0051347882,
+            "day": "2018-08-20",
+            "high_price": 7.88e-06,
+            "low_price": 7.65e-06
+        },
+        {
+            "change_rate": -0.01517067,
+            "day": "2018-08-19",
+            "high_price": 8.58e-06,
+            "low_price": 7.63e-06
+        },
+        {
+            "change_rate": -0.0075282309,
+            "day": "2018-08-18",
+            "high_price": 8.24e-06,
+            "low_price": 7.55e-06
+        },
+        {
+            "change_rate": 0.0843537415,
+            "day": "2018-08-17",
+            "high_price": 8.3e-06,
+            "low_price": 7.35e-06
+        }
+    ],
+    "BTC-UNB": [
+        {
+            "change_rate": -0.0266263238,
+            "day": "2018-08-20",
+            "high_price": 3.312e-05,
+            "low_price": 3.217e-05
+        },
+        {
+            "change_rate": -0.0279411765,
+            "day": "2018-08-19",
+            "high_price": 3.514e-05,
+            "low_price": 3.139e-05
+        },
+        {
+            "change_rate": 0.0416666667,
+            "day": "2018-08-18",
+            "high_price": 3.939e-05,
+            "low_price": 3.273e-05
+        },
+        {
+            "change_rate": 0.02,
+            "day": "2018-08-17",
+            "high_price": 3.514e-05,
+            "low_price": 3.106e-05
+        }
+    ],
+    "BTC-UP": [
+        {
+            "change_rate": 0.0201005025,
+            "day": "2018-08-20",
+            "high_price": 6.15e-06,
+            "low_price": 5.9e-06
+        },
+        {
+            "change_rate": -0.0099502488,
+            "day": "2018-08-19",
+            "high_price": 6.18e-06,
+            "low_price": 5.71e-06
+        },
+        {
+            "change_rate": -0.0195121951,
+            "day": "2018-08-18",
+            "high_price": 6.26e-06,
+            "low_price": 5.85e-06
+        },
+        {
+            "change_rate": 0.0441426146,
+            "day": "2018-08-17",
+            "high_price": 6.36e-06,
+            "low_price": 5.69e-06
+        }
+    ],
+    "BTC-VEE": [
+        {
+            "change_rate": 0.0147058824,
+            "day": "2018-08-20",
+            "high_price": 1.38e-06,
+            "low_price": 1.33e-06
+        },
+        {
+            "change_rate": -0.0354609929,
+            "day": "2018-08-19",
+            "high_price": 1.45e-06,
+            "low_price": 1.3e-06
+        },
+        {
+            "change_rate": -0.0408163265,
+            "day": "2018-08-18",
+            "high_price": 1.53e-06,
+            "low_price": 1.37e-06
+        },
+        {
+            "change_rate": 0.0575539568,
+            "day": "2018-08-17",
+            "high_price": 1.52e-06,
+            "low_price": 1.36e-06
+        }
+    ],
+    "BTC-VIA": [
+        {
+            "change_rate": 0.0302570714,
+            "day": "2018-08-20",
+            "high_price": 0.00013999,
+            "low_price": 0.00013254
+        },
+        {
+            "change_rate": 0.0158693475,
+            "day": "2018-08-19",
+            "high_price": 0.00014,
+            "low_price": 0.00012724
+        },
+        {
+            "change_rate": -0.0489413144,
+            "day": "2018-08-18",
+            "high_price": 0.00013999,
+            "low_price": 0.00012701
+        },
+        {
+            "change_rate": 0.0582260816,
+            "day": "2018-08-17",
+            "high_price": 0.00013866,
+            "low_price": 0.00012819
+        }
+    ],
+    "BTC-VIB": [
+        {
+            "change_rate": 0.0106761566,
+            "day": "2018-08-20",
+            "high_price": 5.71e-06,
+            "low_price": 5.57e-06
+        },
+        {
+            "change_rate": 0.0293040293,
+            "day": "2018-08-19",
+            "high_price": 5.78e-06,
+            "low_price": 5.33e-06
+        },
+        {
+            "change_rate": -0.0602409639,
+            "day": "2018-08-18",
+            "high_price": 6.02e-06,
+            "low_price": 5.25e-06
+        },
+        {
+            "change_rate": 0.1237911025,
+            "day": "2018-08-17",
+            "high_price": 5.92e-06,
+            "low_price": 5.16e-06
+        }
+    ],
+    "BTC-VRC": [
+        {
+            "change_rate": -0.0183307332,
+            "day": "2018-08-20",
+            "high_price": 2.596e-05,
+            "low_price": 2.435e-05
+        },
+        {
+            "change_rate": 0.0313757039,
+            "day": "2018-08-19",
+            "high_price": 2.635e-05,
+            "low_price": 2.351e-05
+        },
+        {
+            "change_rate": -0.0364341085,
+            "day": "2018-08-18",
+            "high_price": 2.684e-05,
+            "low_price": 2.431e-05
+        },
+        {
+            "change_rate": 0.0137524558,
+            "day": "2018-08-17",
+            "high_price": 2.639e-05,
+            "low_price": 2.476e-05
+        }
+    ],
+    "BTC-VTC": [
+        {
+            "change_rate": -0.0136761488,
+            "day": "2018-08-20",
+            "high_price": 0.00011,
+            "low_price": 0.00010801
+        },
+        {
+            "change_rate": 0.0202790698,
+            "day": "2018-08-19",
+            "high_price": 0.00011246,
+            "low_price": 0.00010622
+        },
+        {
+            "change_rate": -0.043253827,
+            "day": "2018-08-18",
+            "high_price": 0.00012481,
+            "low_price": 0.00010688
+        },
+        {
+            "change_rate": 0.0550234742,
+            "day": "2018-08-17",
+            "high_price": 0.00011535,
+            "low_price": 0.00010357
+        }
+    ],
+    "BTC-WAVES": [
+        {
+            "change_rate": 6.0033e-05,
+            "day": "2018-08-20",
+            "high_price": 0.00033753,
+            "low_price": 0.00033061
+        },
+        {
+            "change_rate": 0.0100964162,
+            "day": "2018-08-19",
+            "high_price": 0.00034358,
+            "low_price": 0.000327
+        },
+        {
+            "change_rate": 0.0129917995,
+            "day": "2018-08-18",
+            "high_price": 0.00033012,
+            "low_price": 0.00032246
+        },
+        {
+            "change_rate": 0.0444615533,
+            "day": "2018-08-17",
+            "high_price": 0.00032997,
+            "low_price": 0.00030911
+        }
+    ],
+    "BTC-WAX": [
+        {
+            "change_rate": 0.02809482,
+            "day": "2018-08-20",
+            "high_price": 1.199e-05,
+            "low_price": 1.106e-05
+        },
+        {
+            "change_rate": 0.0088573959,
+            "day": "2018-08-19",
+            "high_price": 1.167e-05,
+            "low_price": 1.064e-05
+        },
+        {
+            "change_rate": -0.042408821,
+            "day": "2018-08-18",
+            "high_price": 1.226e-05,
+            "low_price": 1.085e-05
+        },
+        {
+            "change_rate": 0.0846366145,
+            "day": "2018-08-17",
+            "high_price": 1.18e-05,
+            "low_price": 1.071e-05
+        }
+    ],
+    "BTC-WINGS": [
+        {
+            "change_rate": 0.0242896425,
+            "day": "2018-08-20",
+            "high_price": 2.245e-05,
+            "low_price": 2.235e-05
+        },
+        {
+            "change_rate": 0.0027573529,
+            "day": "2018-08-19",
+            "high_price": 2.364e-05,
+            "low_price": 1.931e-05
+        },
+        {
+            "change_rate": -0.0263982103,
+            "day": "2018-08-18",
+            "high_price": 2.52e-05,
+            "low_price": 2.08e-05
+        },
+        {
+            "change_rate": 0.1064356436,
+            "day": "2018-08-17",
+            "high_price": 2.266e-05,
+            "low_price": 2.01e-05
+        }
+    ],
+    "BTC-XDN": [
+        {
+            "change_rate": -0.0204081633,
+            "day": "2018-08-20",
+            "high_price": 5e-07,
+            "low_price": 4.8e-07
+        },
+        {
+            "change_rate": -0.0576923077,
+            "day": "2018-08-19",
+            "high_price": 5.5e-07,
+            "low_price": 4.3e-07
+        },
+        {
+            "change_rate": -0.037037037,
+            "day": "2018-08-18",
+            "high_price": 5.8e-07,
+            "low_price": 5.1e-07
+        },
+        {
+            "change_rate": 0.08,
+            "day": "2018-08-17",
+            "high_price": 5.6e-07,
+            "low_price": 4.7e-07
+        }
+    ],
+    "BTC-XEL": [
+        {
+            "change_rate": 0.0436241611,
+            "day": "2018-08-20",
+            "high_price": 1.246e-05,
+            "low_price": 1.192e-05
+        },
+        {
+            "change_rate": -0.0614173228,
+            "day": "2018-08-19",
+            "high_price": 1.283e-05,
+            "low_price": 1.121e-05
+        },
+        {
+            "change_rate": -0.068914956,
+            "day": "2018-08-18",
+            "high_price": 1.371e-05,
+            "low_price": 1.212e-05
+        },
+        {
+            "change_rate": 0.024024024,
+            "day": "2018-08-17",
+            "high_price": 1.38e-05,
+            "low_price": 1.293e-05
+        }
+    ],
+    "BTC-XEM": [
+        {
+            "change_rate": -0.006626506,
+            "day": "2018-08-20",
+            "high_price": 1.668e-05,
+            "low_price": 1.631e-05
+        },
+        {
+            "change_rate": 0.0060606061,
+            "day": "2018-08-19",
+            "high_price": 1.704e-05,
+            "low_price": 1.633e-05
+        },
+        {
+            "change_rate": -0.0719910011,
+            "day": "2018-08-18",
+            "high_price": 1.831e-05,
+            "low_price": 1.603e-05
+        },
+        {
+            "change_rate": 0.0901287554,
+            "day": "2018-08-17",
+            "high_price": 1.799e-05,
+            "low_price": 1.632e-05
+        }
+    ],
+    "BTC-XLM": [
+        {
+            "change_rate": 0.0017035775,
+            "day": "2018-08-20",
+            "high_price": 3.559e-05,
+            "low_price": 3.5e-05
+        },
+        {
+            "change_rate": 0.0135251799,
+            "day": "2018-08-19",
+            "high_price": 3.6e-05,
+            "low_price": 3.464e-05
+        },
+        {
+            "change_rate": -0.0381954055,
+            "day": "2018-08-18",
+            "high_price": 3.729e-05,
+            "low_price": 3.451e-05
+        },
+        {
+            "change_rate": 0.0626470588,
+            "day": "2018-08-17",
+            "high_price": 3.663e-05,
+            "low_price": 3.391e-05
+        }
+    ],
+    "BTC-XMR": [
+        {
+            "change_rate": 0.0054504615,
+            "day": "2018-08-20",
+            "high_price": 0.01575001,
+            "low_price": 0.0151022
+        },
+        {
+            "change_rate": -0.0118554796,
+            "day": "2018-08-19",
+            "high_price": 0.01555494,
+            "low_price": 0.01483118
+        },
+        {
+            "change_rate": 0.025171221,
+            "day": "2018-08-18",
+            "high_price": 0.01617604,
+            "low_price": 0.01500057
+        },
+        {
+            "change_rate": 0.0462963672,
+            "day": "2018-08-17",
+            "high_price": 0.01549601,
+            "low_price": 0.0143578
+        }
+    ],
+    "BTC-XRP": [
+        {
+            "change_rate": 0.0003780718,
+            "day": "2018-08-20",
+            "high_price": 5.398e-05,
+            "low_price": 5.21e-05
+        },
+        {
+            "change_rate": 0.037865411,
+            "day": "2018-08-19",
+            "high_price": 5.49e-05,
+            "low_price": 5.006e-05
+        },
+        {
+            "change_rate": -0.0893335716,
+            "day": "2018-08-18",
+            "high_price": 5.649e-05,
+            "low_price": 4.954e-05
+        },
+        {
+            "change_rate": 0.2070304076,
+            "day": "2018-08-17",
+            "high_price": 5.701e-05,
+            "low_price": 4.609e-05
+        }
+    ],
+    "BTC-XVG": [
+        {
+            "change_rate": 0.0090909091,
+            "day": "2018-08-20",
+            "high_price": 2.27e-06,
+            "low_price": 2.2e-06
+        },
+        {
+            "change_rate": 0.0138248848,
+            "day": "2018-08-19",
+            "high_price": 2.26e-06,
+            "low_price": 2.1e-06
+        },
+        {
+            "change_rate": -0.0606060606,
+            "day": "2018-08-18",
+            "high_price": 2.4e-06,
+            "low_price": 2.06e-06
+        },
+        {
+            "change_rate": 0.2486486486,
+            "day": "2018-08-17",
+            "high_price": 2.38e-06,
+            "low_price": 1.84e-06
+        }
+    ],
+    "BTC-XZC": [
+        {
+            "change_rate": 0.0445439383,
+            "day": "2018-08-20",
+            "high_price": 0.00226595,
+            "low_price": 0.0021213
+        },
+        {
+            "change_rate": 0.0135810281,
+            "day": "2018-08-19",
+            "high_price": 0.00222742,
+            "low_price": 0.00206644
+        },
+        {
+            "change_rate": -0.035550981,
+            "day": "2018-08-18",
+            "high_price": 0.00225,
+            "low_price": 0.00204
+        },
+        {
+            "change_rate": 0.0683729077,
+            "day": "2018-08-17",
+            "high_price": 0.0023456,
+            "low_price": 0.00205354
+        }
+    ],
+    "BTC-ZEC": [
+        {
+            "change_rate": -0.0036671285,
+            "day": "2018-08-20",
+            "high_price": 0.022089,
+            "low_price": 0.02172509
+        },
+        {
+            "change_rate": -0.0218766173,
+            "day": "2018-08-19",
+            "high_price": 0.02249999,
+            "low_price": 0.02170907
+        },
+        {
+            "change_rate": -0.0328591703,
+            "day": "2018-08-18",
+            "high_price": 0.0233,
+            "low_price": 0.0220087
+        },
+        {
+            "change_rate": 0.0341045077,
+            "day": "2018-08-17",
+            "high_price": 0.02324999,
+            "low_price": 0.02200645
+        }
+    ],
+    "BTC-ZEN": [
+        {
+            "change_rate": -0.0026050868,
+            "day": "2018-08-20",
+            "high_price": 0.00316666,
+            "low_price": 0.00310503
+        },
+        {
+            "change_rate": 0.0092818632,
+            "day": "2018-08-19",
+            "high_price": 0.003188,
+            "low_price": 0.00304041
+        },
+        {
+            "change_rate": -0.0441555624,
+            "day": "2018-08-18",
+            "high_price": 0.00325967,
+            "low_price": 0.00305001
+        },
+        {
+            "change_rate": 0.0865319865,
+            "day": "2018-08-17",
+            "high_price": 0.00329657,
+            "low_price": 0.00295362
+        }
+    ],
+    "BTC-ZRX": [
+        {
+            "change_rate": -0.0051734374,
+            "day": "2018-08-20",
+            "high_price": 0.00011991,
+            "low_price": 0.00011551
+        },
+        {
+            "change_rate": 0.0127984882,
+            "day": "2018-08-19",
+            "high_price": 0.00012373,
+            "low_price": 0.00011439
+        },
+        {
+            "change_rate": -0.0814265425,
+            "day": "2018-08-18",
+            "high_price": 0.00012827,
+            "low_price": 0.00010093
+        },
+        {
+            "change_rate": 0.1116568722,
+            "day": "2018-08-17",
+            "high_price": 0.00012884,
+            "low_price": 0.00011336
+        }
+    ],
+    "ETH-ADA": [
+        {
+            "change_rate": -0.0127011257,
+            "day": "2018-08-20",
+            "high_price": 0.00034,
+            "low_price": 0.00033478
+        },
+        {
+            "change_rate": 0.0113250283,
+            "day": "2018-08-19",
+            "high_price": 0.00034175,
+            "low_price": 0.00033182
+        },
+        {
+            "change_rate": -0.0282652766,
+            "day": "2018-08-18",
+            "high_price": 0.00034998,
+            "low_price": 0.0003275
+        },
+        {
+            "change_rate": 0.0410322892,
+            "day": "2018-08-17",
+            "high_price": 0.000349,
+            "low_price": 0.0003263
+        }
+    ],
+    "ETH-ADX": [
+        {
+            "change_rate": 0.0016313214,
+            "day": "2018-08-20",
+            "high_price": 0.000631,
+            "low_price": 0.00061274
+        },
+        {
+            "change_rate": 0.0028137678,
+            "day": "2018-08-19",
+            "high_price": 0.00062999,
+            "low_price": 0.00060073
+        },
+        {
+            "change_rate": -0.0579314809,
+            "day": "2018-08-18",
+            "high_price": 0.00067987,
+            "low_price": 0.00060001
+        },
+        {
+            "change_rate": 0.1041776568,
+            "day": "2018-08-17",
+            "high_price": 0.00065326,
+            "low_price": 0.000599
+        }
+    ],
+    "ETH-ANT": [
+        {
+            "change_rate": 0.0014783728,
+            "day": "2018-08-20",
+            "high_price": 0.00357,
+            "low_price": 0.00353
+        },
+        {
+            "change_rate": -0.0014761905,
+            "day": "2018-08-19",
+            "high_price": 0.00361967,
+            "low_price": 0.00347
+        },
+        {
+            "change_rate": 0.0013940977,
+            "day": "2018-08-18",
+            "high_price": 0.00366264,
+            "low_price": 0.00351001
+        },
+        {
+            "change_rate": 0.0018406735,
+            "day": "2018-08-17",
+            "high_price": 0.00366137,
+            "low_price": 0.00341876
+        }
+    ],
+    "ETH-BAT": [
+        {
+            "change_rate": -0.0135403576,
+            "day": "2018-08-20",
+            "high_price": 0.000759,
+            "low_price": 0.000717
+        },
+        {
+            "change_rate": 0.0476237666,
+            "day": "2018-08-19",
+            "high_price": 0.00076431,
+            "low_price": 0.0007
+        },
+        {
+            "change_rate": -0.0079073034,
+            "day": "2018-08-18",
+            "high_price": 0.00072293,
+            "low_price": 0.00067293
+        },
+        {
+            "change_rate": 0.0384003967,
+            "day": "2018-08-17",
+            "high_price": 0.00074189,
+            "low_price": 0.000673
+        }
+    ],
+    "ETH-BCH": [
+        {
+            "change_rate": -0.0059630518,
+            "day": "2018-08-20",
+            "high_price": 1.899,
+            "low_price": 1.88672509
+        },
+        {
+            "change_rate": 0.0079889591,
+            "day": "2018-08-19",
+            "high_price": 1.91372307,
+            "low_price": 1.86453664
+        },
+        {
+            "change_rate": -0.003387324,
+            "day": "2018-08-18",
+            "high_price": 1.92299999,
+            "low_price": 1.85743468
+        },
+        {
+            "change_rate": 0.0456004538,
+            "day": "2018-08-17",
+            "high_price": 1.88940002,
+            "low_price": 1.7819
+        }
+    ],
+    "ETH-BLT": [
+        {
+            "change_rate": 0.0126775783,
+            "day": "2018-08-20",
+            "high_price": 0.000387,
+            "low_price": 0.00037964
+        },
+        {
+            "change_rate": 0.0053791934,
+            "day": "2018-08-19",
+            "high_price": 0.0003858,
+            "low_price": 0.00037473
+        },
+        {
+            "change_rate": -0.027371134,
+            "day": "2018-08-18",
+            "high_price": 0.00039291,
+            "low_price": 0.00037102
+        },
+        {
+            "change_rate": 0.0335641982,
+            "day": "2018-08-17",
+            "high_price": 0.0004259,
+            "low_price": 0.00037
+        }
+    ],
+    "ETH-BNT": [
+        {
+            "change_rate": -0.004530564,
+            "day": "2018-08-20",
+            "high_price": 0.00553069,
+            "low_price": 0.00546671
+        },
+        {
+            "change_rate": 0.006121088,
+            "day": "2018-08-19",
+            "high_price": 0.00551989,
+            "low_price": 0.00545449
+        },
+        {
+            "change_rate": 0.0004380667,
+            "day": "2018-08-18",
+            "high_price": 0.00557768,
+            "low_price": 0.00545813
+        },
+        {
+            "change_rate": 0.0128391963,
+            "day": "2018-08-17",
+            "high_price": 0.00550908,
+            "low_price": 0.00539236
+        }
+    ],
+    "ETH-BTG": [
+        {
+            "change_rate": 0.0017349703,
+            "day": "2018-08-20",
+            "high_price": 0.06666052,
+            "low_price": 0.0646
+        },
+        {
+            "change_rate": 0.0251582783,
+            "day": "2018-08-19",
+            "high_price": 0.06880487,
+            "low_price": 0.06169255
+        },
+        {
+            "change_rate": 3.90903e-05,
+            "day": "2018-08-18",
+            "high_price": 0.065371,
+            "low_price": 0.0609
+        },
+        {
+            "change_rate": 0.0778106599,
+            "day": "2018-08-17",
+            "high_price": 0.06794522,
+            "low_price": 0.05762855
+        }
+    ],
+    "ETH-CVC": [
+        {
+            "change_rate": -0.0201785021,
+            "day": "2018-08-20",
+            "high_price": 0.000417,
+            "low_price": 0.000404
+        },
+        {
+            "change_rate": 0.0130712531,
+            "day": "2018-08-19",
+            "high_price": 0.000413,
+            "low_price": 0.000404
+        },
+        {
+            "change_rate": -0.0599159237,
+            "day": "2018-08-18",
+            "high_price": 0.0004725,
+            "low_price": 0.00039
+        },
+        {
+            "change_rate": 0.1333507853,
+            "day": "2018-08-17",
+            "high_price": 0.00044969,
+            "low_price": 0.00038578
+        }
+    ],
+    "ETH-DASH": [
+        {
+            "change_rate": 0.0086616269,
+            "day": "2018-08-20",
+            "high_price": 0.523,
+            "low_price": 0.51550945
+        },
+        {
+            "change_rate": -0.0070194954,
+            "day": "2018-08-19",
+            "high_price": 0.53201898,
+            "low_price": 0.508
+        },
+        {
+            "change_rate": -0.0324234145,
+            "day": "2018-08-18",
+            "high_price": 0.54107038,
+            "low_price": 0.5071
+        },
+        {
+            "change_rate": 0.0089046794,
+            "day": "2018-08-17",
+            "high_price": 0.53999999,
+            "low_price": 0.51389
+        }
+    ],
+    "ETH-DGB": [
+        {
+            "change_rate": -0.0042285714,
+            "day": "2018-08-20",
+            "high_price": 8.988e-05,
+            "low_price": 8.701e-05
+        },
+        {
+            "change_rate": 0,
+            "day": "2018-08-19",
+            "high_price": 9.076e-05,
+            "low_price": 8.581e-05
+        },
+        {
+            "change_rate": -0.0125268028,
+            "day": "2018-08-18",
+            "high_price": 9.08e-05,
+            "low_price": 8.55e-05
+        },
+        {
+            "change_rate": 0.0413679633,
+            "day": "2018-08-17",
+            "high_price": 9.264e-05,
+            "low_price": 8.5e-05
+        }
+    ],
+    "ETH-DMT": [
+        {
+            "change_rate": -0.0178492155,
+            "day": "2018-08-20",
+            "high_price": 0.00065704,
+            "low_price": 0.00064159
+        },
+        {
+            "change_rate": 0.1204974271,
+            "day": "2018-08-19",
+            "high_price": 0.00072584,
+            "low_price": 0.000592
+        },
+        {
+            "change_rate": 0.008650519,
+            "day": "2018-08-18",
+            "high_price": 0.0006825,
+            "low_price": 0.00058185
+        },
+        {
+            "change_rate": 0.0703307285,
+            "day": "2018-08-17",
+            "high_price": 0.00058149,
+            "low_price": 0.00052426
+        }
+    ],
+    "ETH-ENG": [
+        {
+            "change_rate": 0.0074433302,
+            "day": "2018-08-20",
+            "high_price": 0.00229551,
+            "low_price": 0.00229551
+        },
+        {
+            "change_rate": 0.021189726,
+            "day": "2018-08-19",
+            "high_price": 0.00236,
+            "low_price": 0.00219
+        },
+        {
+            "change_rate": -0.0584166772,
+            "day": "2018-08-18",
+            "high_price": 0.00245,
+            "low_price": 0.002231
+        },
+        {
+            "change_rate": 0.0626457399,
+            "day": "2018-08-17",
+            "high_price": 0.00249,
+            "low_price": 0.00227353
+        }
+    ],
+    "ETH-ETC": [
+        {
+            "change_rate": -0.007783467,
+            "day": "2018-08-20",
+            "high_price": 0.04480387,
+            "low_price": 0.04400891
+        },
+        {
+            "change_rate": -0.0063988284,
+            "day": "2018-08-19",
+            "high_price": 0.04523063,
+            "low_price": 0.0440755
+        },
+        {
+            "change_rate": -0.0304988004,
+            "day": "2018-08-18",
+            "high_price": 0.04610422,
+            "low_price": 0.04422994
+        },
+        {
+            "change_rate": -0.0459946935,
+            "day": "2018-08-17",
+            "high_price": 0.04773983,
+            "low_price": 0.04508419
+        }
+    ],
+    "ETH-FCT": [
+        {
+            "change_rate": 0.0467573807,
+            "day": "2018-08-20",
+            "high_price": 0.02065805,
+            "low_price": 0.02035916
+        },
+        {
+            "change_rate": 0.0173522205,
+            "day": "2018-08-19",
+            "high_price": 0.0203,
+            "low_price": 0.01830004
+        },
+        {
+            "change_rate": 0.0688473014,
+            "day": "2018-08-18",
+            "high_price": 0.0197,
+            "low_price": 0.01744883
+        },
+        {
+            "change_rate": 0.0074918717,
+            "day": "2018-08-17",
+            "high_price": 0.0184763,
+            "low_price": 0.01663009
+        }
+    ],
+    "ETH-GNO": [
+        {
+            "change_rate": 0.0339673994,
+            "day": "2018-08-19",
+            "high_price": 0.10372163,
+            "low_price": 0.1017642
+        },
+        {
+            "change_rate": -0.03378288,
+            "day": "2018-08-18",
+            "high_price": 0.10949999,
+            "low_price": 0.10011364
+        },
+        {
+            "change_rate": -0.0129966748,
+            "day": "2018-08-17",
+            "high_price": 0.10769755,
+            "low_price": 0.1030692
+        },
+        {
+            "change_rate": -0.02916741,
+            "day": "2018-08-16",
+            "high_price": 0.1095,
+            "low_price": 0.10156506
+        }
+    ],
+    "ETH-GNT": [
+        {
+            "change_rate": -0.0337241722,
+            "day": "2018-08-20",
+            "high_price": 0.00051984,
+            "low_price": 0.000506
+        },
+        {
+            "change_rate": 0.0037569484,
+            "day": "2018-08-19",
+            "high_price": 0.000548,
+            "low_price": 0.00050702
+        },
+        {
+            "change_rate": -0.0850097339,
+            "day": "2018-08-18",
+            "high_price": 0.00058,
+            "low_price": 0.000509
+        },
+        {
+            "change_rate": 0.1535364571,
+            "day": "2018-08-17",
+            "high_price": 0.00058373,
+            "low_price": 0.00047807
+        }
+    ],
+    "ETH-GTO": [
+        {
+            "change_rate": -0.0108142925,
+            "day": "2018-08-20",
+            "high_price": 0.00029678,
+            "low_price": 0.00029179
+        },
+        {
+            "change_rate": 0.0804732427,
+            "day": "2018-08-19",
+            "high_price": 0.00030864,
+            "low_price": 0.00027848
+        },
+        {
+            "change_rate": -0.0166408529,
+            "day": "2018-08-18",
+            "high_price": 0.00030913,
+            "low_price": 0.00027263
+        },
+        {
+            "change_rate": 0.042193776,
+            "day": "2018-08-17",
+            "high_price": 0.00028724,
+            "low_price": 0.00026269
+        }
+    ],
+    "ETH-LRC": [
+        {
+            "change_rate": -0.002394562,
+            "day": "2018-08-20",
+            "high_price": 0.00038745,
+            "low_price": 0.00038745
+        },
+        {
+            "change_rate": 0.008019933,
+            "day": "2018-08-19",
+            "high_price": 0.00039983,
+            "low_price": 0.00037729
+        },
+        {
+            "change_rate": -0.0831667619,
+            "day": "2018-08-18",
+            "high_price": 0.00043288,
+            "low_price": 0.00033793
+        },
+        {
+            "change_rate": 0.1972308481,
+            "day": "2018-08-17",
+            "high_price": 0.0005342,
+            "low_price": 0.00035699
+        }
+    ],
+    "ETH-LTC": [
+        {
+            "change_rate": 0.0057032678,
+            "day": "2018-08-20",
+            "high_price": 0.194,
+            "low_price": 0.19159951
+        },
+        {
+            "change_rate": -0.0023112686,
+            "day": "2018-08-19",
+            "high_price": 0.19726859,
+            "low_price": 0.189
+        },
+        {
+            "change_rate": -0.0067287414,
+            "day": "2018-08-18",
+            "high_price": 0.19597151,
+            "low_price": 0.18714495
+        },
+        {
+            "change_rate": 0.0081598707,
+            "day": "2018-08-17",
+            "high_price": 0.198,
+            "low_price": 0.18861504
+        }
+    ],
+    "ETH-MANA": [
+        {
+            "change_rate": -0.0088776674,
+            "day": "2018-08-20",
+            "high_price": 0.00024745,
+            "low_price": 0.000243
+        },
+        {
+            "change_rate": 0.0241908575,
+            "day": "2018-08-19",
+            "high_price": 0.000249,
+            "low_price": 0.00023509
+        },
+        {
+            "change_rate": -0.0250487964,
+            "day": "2018-08-18",
+            "high_price": 0.00025198,
+            "low_price": 0.0002337
+        },
+        {
+            "change_rate": 0.0623353061,
+            "day": "2018-08-17",
+            "high_price": 0.00025546,
+            "low_price": 0.00023066
+        }
+    ],
+    "ETH-MCO": [
+        {
+            "change_rate": -0.0397744001,
+            "day": "2018-08-19",
+            "high_price": 0.01626707,
+            "low_price": 0.0156
+        },
+        {
+            "change_rate": 0.0125051576,
+            "day": "2018-08-18",
+            "high_price": 0.0166,
+            "low_price": 0.01505997
+        },
+        {
+            "change_rate": 0.0169981013,
+            "day": "2018-08-17",
+            "high_price": 0.0166,
+            "low_price": 0.01559999
+        },
+        {
+            "change_rate": -0.0202692647,
+            "day": "2018-08-16",
+            "high_price": 0.016,
+            "low_price": 0.01560675
+        }
+    ],
+    "ETH-NEO": [
+        {
+            "change_rate": -0.01094224,
+            "day": "2018-08-20",
+            "high_price": 0.06635076,
+            "low_price": 0.06439995
+        },
+        {
+            "change_rate": 0.0492965038,
+            "day": "2018-08-19",
+            "high_price": 0.066202,
+            "low_price": 0.06094911
+        },
+        {
+            "change_rate": -0.0297133711,
+            "day": "2018-08-18",
+            "high_price": 0.06555921,
+            "low_price": 0.06076
+        },
+        {
+            "change_rate": 0.1554729292,
+            "day": "2018-08-17",
+            "high_price": 0.0657,
+            "low_price": 0.05654441
+        }
+    ],
+    "ETH-NGC": [
+        {
+            "change_rate": 0.0421403827,
+            "day": "2018-08-19",
+            "high_price": 0.00095,
+            "low_price": 0.00088807
+        },
+        {
+            "change_rate": -0.0389032892,
+            "day": "2018-08-18",
+            "high_price": 0.00091958,
+            "low_price": 0.00085
+        },
+        {
+            "change_rate": -0.0046706107,
+            "day": "2018-08-17",
+            "high_price": 0.00091772,
+            "low_price": 0.00088375
+        },
+        {
+            "change_rate": -0.0575584808,
+            "day": "2018-08-16",
+            "high_price": 0.00096472,
+            "low_price": 0.00087264
+        }
+    ],
+    "ETH-OCN": [
+        {
+            "change_rate": -0.0109060403,
+            "day": "2018-08-20",
+            "high_price": 1.213e-05,
+            "low_price": 1.168e-05
+        },
+        {
+            "change_rate": 0.0456140351,
+            "day": "2018-08-19",
+            "high_price": 1.192e-05,
+            "low_price": 1.111e-05
+        },
+        {
+            "change_rate": -0.0821256039,
+            "day": "2018-08-18",
+            "high_price": 1.282e-05,
+            "low_price": 1.06e-05
+        },
+        {
+            "change_rate": 0.1363220494,
+            "day": "2018-08-17",
+            "high_price": 1.294e-05,
+            "low_price": 1.089e-05
+        }
+    ],
+    "ETH-OMG": [
+        {
+            "change_rate": 0.0053601449,
+            "day": "2018-08-20",
+            "high_price": 0.01406322,
+            "low_price": 0.01359814
+        },
+        {
+            "change_rate": -0.0026343462,
+            "day": "2018-08-19",
+            "high_price": 0.01465632,
+            "low_price": 0.01362725
+        },
+        {
+            "change_rate": -0.0107437627,
+            "day": "2018-08-18",
+            "high_price": 0.01449147,
+            "low_price": 0.0130317
+        },
+        {
+            "change_rate": 0.0875644119,
+            "day": "2018-08-17",
+            "high_price": 0.0147,
+            "low_price": 0.0129
+        }
+    ],
+    "ETH-PAY": [
+        {
+            "change_rate": 0.0047308279,
+            "day": "2018-08-20",
+            "high_price": 0.002017,
+            "low_price": 0.001957
+        },
+        {
+            "change_rate": 0.0414897994,
+            "day": "2018-08-19",
+            "high_price": 0.00203699,
+            "low_price": 0.00185
+        },
+        {
+            "change_rate": -0.0666067088,
+            "day": "2018-08-18",
+            "high_price": 0.002037,
+            "low_price": 0.00187
+        },
+        {
+            "change_rate": 0.0713541667,
+            "day": "2018-08-17",
+            "high_price": 0.00207963,
+            "low_price": 0.00187
+        }
+    ],
+    "ETH-POLY": [
+        {
+            "change_rate": -0.0233111108,
+            "day": "2018-08-20",
+            "high_price": 0.000674,
+            "low_price": 0.00064786
+        },
+        {
+            "change_rate": 0.0200795198,
+            "day": "2018-08-19",
+            "high_price": 0.0006806,
+            "low_price": 0.00063719
+        },
+        {
+            "change_rate": -0.0380832841,
+            "day": "2018-08-18",
+            "high_price": 0.000713,
+            "low_price": 0.00063713
+        },
+        {
+            "change_rate": 0.0259984243,
+            "day": "2018-08-17",
+            "high_price": 0.00070513,
+            "low_price": 0.00064788
+        }
+    ],
+    "ETH-POWR": [
+        {
+            "change_rate": 0.0002518693,
+            "day": "2018-08-20",
+            "high_price": 0.000644,
+            "low_price": 0.00062899
+        },
+        {
+            "change_rate": 0.0035545024,
+            "day": "2018-08-19",
+            "high_price": 0.00064499,
+            "low_price": 0.00062422
+        },
+        {
+            "change_rate": -0.0527071922,
+            "day": "2018-08-18",
+            "high_price": 0.000699,
+            "low_price": 0.000615
+        },
+        {
+            "change_rate": 0.0381084062,
+            "day": "2018-08-17",
+            "high_price": 0.00068093,
+            "low_price": 0.0006421
+        }
+    ],
+    "ETH-QTUM": [
+        {
+            "change_rate": -0.0184558442,
+            "day": "2018-08-20",
+            "high_price": 0.0154,
+            "low_price": 0.01511578
+        },
+        {
+            "change_rate": 0.0201053491,
+            "day": "2018-08-19",
+            "high_price": 0.01548844,
+            "low_price": 0.01508108
+        },
+        {
+            "change_rate": -0.0464023933,
+            "day": "2018-08-18",
+            "high_price": 0.01618336,
+            "low_price": 0.0149
+        },
+        {
+            "change_rate": 0.0427532604,
+            "day": "2018-08-17",
+            "high_price": 0.0164868,
+            "low_price": 0.01503361
+        }
+    ],
+    "ETH-REP": [
+        {
+            "change_rate": 0.0297527916,
+            "day": "2018-08-20",
+            "high_price": 0.06399999,
+            "low_price": 0.06194563
+        },
+        {
+            "change_rate": 0.004085319,
+            "day": "2018-08-19",
+            "high_price": 0.06349682,
+            "low_price": 0.06051406
+        },
+        {
+            "change_rate": -0.0002374056,
+            "day": "2018-08-18",
+            "high_price": 0.06379049,
+            "low_price": 0.05952127
+        },
+        {
+            "change_rate": 0.0541392172,
+            "day": "2018-08-17",
+            "high_price": 0.0630002,
+            "low_price": 0.05708453
+        }
+    ],
+    "ETH-RLC": [
+        {
+            "change_rate": -0.0150123178,
+            "day": "2018-08-20",
+            "high_price": 0.00116611,
+            "low_price": 0.0011411
+        },
+        {
+            "change_rate": 0.0533979708,
+            "day": "2018-08-19",
+            "high_price": 0.00117392,
+            "low_price": 0.00106938
+        },
+        {
+            "change_rate": 0.0032544432,
+            "day": "2018-08-18",
+            "high_price": 0.00118249,
+            "low_price": 0.00107868
+        },
+        {
+            "change_rate": 0.0586568921,
+            "day": "2018-08-17",
+            "high_price": 0.00126907,
+            "low_price": 0.0010329
+        }
+    ],
+    "ETH-SALT": [
+        {
+            "change_rate": -0.024459025,
+            "day": "2018-08-20",
+            "high_price": 0.00159763,
+            "low_price": 0.0015567
+        },
+        {
+            "change_rate": 0.0290783161,
+            "day": "2018-08-19",
+            "high_price": 0.00159763,
+            "low_price": 0.00149753
+        },
+        {
+            "change_rate": -0.0156916514,
+            "day": "2018-08-18",
+            "high_price": 0.00166526,
+            "low_price": 0.00146162
+        },
+        {
+            "change_rate": 0.0344678141,
+            "day": "2018-08-17",
+            "high_price": 0.001727,
+            "low_price": 0.0015153
+        }
+    ],
+    "ETH-SC": [
+        {
+            "change_rate": -0.0197069227,
+            "day": "2018-08-20",
+            "high_price": 1.988e-05,
+            "low_price": 1.94e-05
+        },
+        {
+            "change_rate": 0.0383001049,
+            "day": "2018-08-19",
+            "high_price": 1.994e-05,
+            "low_price": 1.881e-05
+        },
+        {
+            "change_rate": -0.0144777663,
+            "day": "2018-08-18",
+            "high_price": 2.112e-05,
+            "low_price": 1.836e-05
+        },
+        {
+            "change_rate": 0.0804469274,
+            "day": "2018-08-17",
+            "high_price": 2.04e-05,
+            "low_price": 1.788e-05
+        }
+    ],
+    "ETH-SNT": [
+        {
+            "change_rate": -0.0121797252,
+            "day": "2018-08-20",
+            "high_price": 0.00013567,
+            "low_price": 0.00013206
+        },
+        {
+            "change_rate": 0.0321962438,
+            "day": "2018-08-19",
+            "high_price": 0.000136,
+            "low_price": 0.00013048
+        },
+        {
+            "change_rate": -0.0251830818,
+            "day": "2018-08-18",
+            "high_price": 0.0001405,
+            "low_price": 0.00012826
+        },
+        {
+            "change_rate": 0.0543649543,
+            "day": "2018-08-17",
+            "high_price": 0.00013647,
+            "low_price": 0.00012745
+        }
+    ],
+    "ETH-SRN": [
+        {
+            "change_rate": -0.0419354839,
+            "day": "2018-08-20",
+            "high_price": 0.00030633,
+            "low_price": 0.000297
+        },
+        {
+            "change_rate": 3.22591e-05,
+            "day": "2018-08-19",
+            "high_price": 0.00032881,
+            "low_price": 0.000289
+        },
+        {
+            "change_rate": 0.1697735849,
+            "day": "2018-08-18",
+            "high_price": 0.00031001,
+            "low_price": 0.00025004
+        },
+        {
+            "change_rate": 0.090983944,
+            "day": "2018-08-17",
+            "high_price": 0.000265,
+            "low_price": 0.00023101
+        }
+    ],
+    "ETH-STORM": [
+        {
+            "change_rate": -0.0211196782,
+            "day": "2018-08-20",
+            "high_price": 3.043e-05,
+            "low_price": 2.92e-05
+        },
+        {
+            "change_rate": 0.0111864407,
+            "day": "2018-08-19",
+            "high_price": 3.038e-05,
+            "low_price": 2.876e-05
+        },
+        {
+            "change_rate": 0.0494485948,
+            "day": "2018-08-18",
+            "high_price": 3.26e-05,
+            "low_price": 2.782e-05
+        },
+        {
+            "change_rate": 0.1403651116,
+            "day": "2018-08-17",
+            "high_price": 2.811e-05,
+            "low_price": 2.491e-05
+        }
+    ],
+    "ETH-STRAT": [
+        {
+            "change_rate": -0.0044709715,
+            "day": "2018-08-20",
+            "high_price": 0.00505999,
+            "low_price": 0.00499883
+        },
+        {
+            "change_rate": 0.0205874402,
+            "day": "2018-08-19",
+            "high_price": 0.005068,
+            "low_price": 0.00476562
+        },
+        {
+            "change_rate": 0.0040795918,
+            "day": "2018-08-18",
+            "high_price": 0.00508999,
+            "low_price": 0.00471
+        },
+        {
+            "change_rate": 0.0647428863,
+            "day": "2018-08-17",
+            "high_price": 0.00521,
+            "low_price": 0.00467
+        }
+    ],
+    "ETH-TRX": [
+        {
+            "change_rate": -0.0017600867,
+            "day": "2018-08-20",
+            "high_price": 7.47e-05,
+            "low_price": 7.28e-05
+        },
+        {
+            "change_rate": 0.0166551961,
+            "day": "2018-08-19",
+            "high_price": 7.43e-05,
+            "low_price": 7.163e-05
+        },
+        {
+            "change_rate": -0.0060199754,
+            "day": "2018-08-18",
+            "high_price": 7.72e-05,
+            "low_price": 7.077e-05
+        },
+        {
+            "change_rate": 0.0756438558,
+            "day": "2018-08-17",
+            "high_price": 7.5e-05,
+            "low_price": 6.74e-05
+        }
+    ],
+    "ETH-TUSD": [
+        {
+            "change_rate": 0.0139305136,
+            "day": "2018-08-20",
+            "high_price": 0.00335611,
+            "low_price": 0.00330146
+        },
+        {
+            "change_rate": -0.0293255132,
+            "day": "2018-08-19",
+            "high_price": 0.00347256,
+            "low_price": 0.00324913
+        },
+        {
+            "change_rate": 0.0576988691,
+            "day": "2018-08-18",
+            "high_price": 0.0035448,
+            "low_price": 0.00316
+        },
+        {
+            "change_rate": -0.07867596,
+            "day": "2018-08-17",
+            "high_price": 0.00351205,
+            "low_price": 0.00318
+        }
+    ],
+    "ETH-UKG": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 0.00016504,
+            "low_price": 0.00016504
+        },
+        {
+            "change_rate": -0.0291764706,
+            "day": "2018-08-19",
+            "high_price": 0.00017815,
+            "low_price": 0.00016341
+        },
+        {
+            "change_rate": 0.0056791292,
+            "day": "2018-08-18",
+            "high_price": 0.00017,
+            "low_price": 0.00016306
+        },
+        {
+            "change_rate": -0.0021840505,
+            "day": "2018-08-17",
+            "high_price": 0.00017999,
+            "low_price": 0.0001512
+        }
+    ],
+    "ETH-VEE": [
+        {
+            "change_rate": 0.0092244619,
+            "day": "2018-08-20",
+            "high_price": 2.996e-05,
+            "low_price": 2.833e-05
+        },
+        {
+            "change_rate": -0.0330360093,
+            "day": "2018-08-19",
+            "high_price": 3.108e-05,
+            "low_price": 2.82e-05
+        },
+        {
+            "change_rate": 0.0053138492,
+            "day": "2018-08-18",
+            "high_price": 3.599e-05,
+            "low_price": 2.977e-05
+        },
+        {
+            "change_rate": -0.0217673814,
+            "day": "2018-08-17",
+            "high_price": 3.364e-05,
+            "low_price": 2.948e-05
+        }
+    ],
+    "ETH-VIB": [
+        {
+            "change_rate": 0.0001639344,
+            "day": "2018-08-20",
+            "high_price": 0.00012262,
+            "low_price": 0.00012202
+        },
+        {
+            "change_rate": 0.0140470451,
+            "day": "2018-08-19",
+            "high_price": 0.000125,
+            "low_price": 0.00011705
+        },
+        {
+            "change_rate": -0.0057024793,
+            "day": "2018-08-18",
+            "high_price": 0.00012383,
+            "low_price": 0.000117
+        },
+        {
+            "change_rate": 0.0595446585,
+            "day": "2018-08-17",
+            "high_price": 0.0001265,
+            "low_price": 0.00011421
+        }
+    ],
+    "ETH-WAVES": [
+        {
+            "change_rate": -0.0048962407,
+            "day": "2018-08-20",
+            "high_price": 0.00724527,
+            "low_price": 0.00718041
+        },
+        {
+            "change_rate": 0.0117882628,
+            "day": "2018-08-19",
+            "high_price": 0.00733438,
+            "low_price": 0.00712192
+        },
+        {
+            "change_rate": 0.048775,
+            "day": "2018-08-18",
+            "high_price": 0.00734999,
+            "low_price": 0.00669596
+        },
+        {
+            "change_rate": -0.0029325513,
+            "day": "2018-08-17",
+            "high_price": 0.00707,
+            "low_price": 0.0067315
+        }
+    ],
+    "ETH-WAX": [
+        {
+            "change_rate": 0.0249661003,
+            "day": "2018-08-20",
+            "high_price": 0.000257,
+            "low_price": 0.000242
+        },
+        {
+            "change_rate": 0.0315122593,
+            "day": "2018-08-19",
+            "high_price": 0.00025074,
+            "low_price": 0.00023715
+        },
+        {
+            "change_rate": -0.0120305641,
+            "day": "2018-08-18",
+            "high_price": 0.00025365,
+            "low_price": 0.00023804
+        },
+        {
+            "change_rate": 0.0118856673,
+            "day": "2018-08-17",
+            "high_price": 0.0002556,
+            "low_price": 0.00023715
+        }
+    ],
+    "ETH-XEM": [
+        {
+            "change_rate": -0.0038768338,
+            "day": "2018-08-20",
+            "high_price": 0.00036241,
+            "low_price": 0.000354
+        },
+        {
+            "change_rate": 0.0054684652,
+            "day": "2018-08-19",
+            "high_price": 0.00036269,
+            "low_price": 0.000355
+        },
+        {
+            "change_rate": -0.0293172909,
+            "day": "2018-08-18",
+            "high_price": 0.00037701,
+            "low_price": 0.00034499
+        },
+        {
+            "change_rate": 0.0085104047,
+            "day": "2018-08-17",
+            "high_price": 0.00038,
+            "low_price": 0.00035396
+        }
+    ],
+    "ETH-XLM": [
+        {
+            "change_rate": 0.0038487482,
+            "day": "2018-08-20",
+            "high_price": 0.00076802,
+            "low_price": 0.000759
+        },
+        {
+            "change_rate": -1.32258e-05,
+            "day": "2018-08-19",
+            "high_price": 0.00076737,
+            "low_price": 0.00075103
+        },
+        {
+            "change_rate": -0.0029012264,
+            "day": "2018-08-18",
+            "high_price": 0.000772,
+            "low_price": 0.00073001
+        },
+        {
+            "change_rate": 0.0124165554,
+            "day": "2018-08-17",
+            "high_price": 0.00077714,
+            "low_price": 0.00073034
+        }
+    ],
+    "ETH-XMR": [
+        {
+            "change_rate": 0.0101206972,
+            "day": "2018-08-20",
+            "high_price": 0.339678,
+            "low_price": 0.3283446
+        },
+        {
+            "change_rate": -0.015214123,
+            "day": "2018-08-19",
+            "high_price": 0.3350649,
+            "low_price": 0.32103673
+        },
+        {
+            "change_rate": 0.0512255044,
+            "day": "2018-08-18",
+            "high_price": 0.33835275,
+            "low_price": 0.31450019
+        },
+        {
+            "change_rate": -0.003289459,
+            "day": "2018-08-17",
+            "high_price": 0.32557224,
+            "low_price": 0.31178033
+        }
+    ],
+    "ETH-XRP": [
+        {
+            "change_rate": -0.0088090388,
+            "day": "2018-08-20",
+            "high_price": 0.001155,
+            "low_price": 0.00113431
+        },
+        {
+            "change_rate": 0.0312474753,
+            "day": "2018-08-19",
+            "high_price": 0.0011663,
+            "low_price": 0.0010908
+        },
+        {
+            "change_rate": -0.0334221235,
+            "day": "2018-08-18",
+            "high_price": 0.00116734,
+            "low_price": 0.00108
+        },
+        {
+            "change_rate": 0.1363483988,
+            "day": "2018-08-17",
+            "high_price": 0.00119,
+            "low_price": 0.00099835
+        }
+    ],
+    "ETH-ZEC": [
+        {
+            "change_rate": 0.0051574043,
+            "day": "2018-08-20",
+            "high_price": 0.47576935,
+            "low_price": 0.471
+        },
+        {
+            "change_rate": -0.0195612958,
+            "day": "2018-08-19",
+            "high_price": 0.48563104,
+            "low_price": 0.468
+        },
+        {
+            "change_rate": 0.0006160531,
+            "day": "2018-08-18",
+            "high_price": 0.494,
+            "low_price": 0.469
+        },
+        {
+            "change_rate": -0.0206314324,
+            "day": "2018-08-17",
+            "high_price": 0.492,
+            "low_price": 0.46909579
+        }
+    ],
+    "ETH-ZRX": [
+        {
+            "change_rate": -0.0064932761,
+            "day": "2018-08-20",
+            "high_price": 0.002579,
+            "low_price": 0.00251404
+        },
+        {
+            "change_rate": 0.0049007567,
+            "day": "2018-08-19",
+            "high_price": 0.00261998,
+            "low_price": 0.00248
+        },
+        {
+            "change_rate": -0.0383098699,
+            "day": "2018-08-18",
+            "high_price": 0.00264174,
+            "low_price": 0.00245
+        },
+        {
+            "change_rate": 0.0434449008,
+            "day": "2018-08-17",
+            "high_price": 0.00273,
+            "low_price": 0.0024745
+        }
+    ],
+    "KRW-ADA": [
+        {
+            "change_rate": -0.0172413793,
+            "day": "2018-08-20",
+            "high_price": 118.0,
+            "low_price": 114.0
+        },
+        {
+            "change_rate": 0.0175438596,
+            "day": "2018-08-19",
+            "high_price": 119.0,
+            "low_price": 111.0
+        },
+        {
+            "change_rate": -0.0806451613,
+            "day": "2018-08-18",
+            "high_price": 129.0,
+            "low_price": 111.0
+        },
+        {
+            "change_rate": 0.1376146789,
+            "day": "2018-08-17",
+            "high_price": 126.0,
+            "low_price": 109.0
+        }
+    ],
+    "KRW-ADT": [
+        {
+            "change_rate": -0.0386740331,
+            "day": "2018-08-20",
+            "high_price": 18.2,
+            "low_price": 17.1
+        },
+        {
+            "change_rate": 0.0111731844,
+            "day": "2018-08-19",
+            "high_price": 18.4,
+            "low_price": 16.8
+        },
+        {
+            "change_rate": 0.0056179775,
+            "day": "2018-08-18",
+            "high_price": 20.4,
+            "low_price": 16.6
+        },
+        {
+            "change_rate": 0.1125,
+            "day": "2018-08-17",
+            "high_price": 17.9,
+            "low_price": 15.3
+        }
+    ],
+    "KRW-ADX": [
+        {
+            "change_rate": 0.0047619048,
+            "day": "2018-08-20",
+            "high_price": 218.0,
+            "low_price": 209.0
+        },
+        {
+            "change_rate": 0.0294117647,
+            "day": "2018-08-19",
+            "high_price": 219.0,
+            "low_price": 200.0
+        },
+        {
+            "change_rate": -0.1319148936,
+            "day": "2018-08-18",
+            "high_price": 245.0,
+            "low_price": 197.0
+        },
+        {
+            "change_rate": 0.175,
+            "day": "2018-08-17",
+            "high_price": 235.0,
+            "low_price": 196.0
+        }
+    ],
+    "KRW-ARDR": [
+        {
+            "change_rate": -0.0153846154,
+            "day": "2018-08-20",
+            "high_price": 133.0,
+            "low_price": 126.0
+        },
+        {
+            "change_rate": 0.0236220472,
+            "day": "2018-08-19",
+            "high_price": 134.0,
+            "low_price": 123.0
+        },
+        {
+            "change_rate": -0.0992907801,
+            "day": "2018-08-18",
+            "high_price": 146.0,
+            "low_price": 124.0
+        },
+        {
+            "change_rate": 0.1015625,
+            "day": "2018-08-17",
+            "high_price": 143.0,
+            "low_price": 123.0
+        }
+    ],
+    "KRW-ARK": [
+        {
+            "change_rate": 0.0324254215,
+            "day": "2018-08-20",
+            "high_price": 799.0,
+            "low_price": 778.0
+        },
+        {
+            "change_rate": -0.0128040973,
+            "day": "2018-08-19",
+            "high_price": 803.0,
+            "low_price": 751.0
+        },
+        {
+            "change_rate": -0.0876168224,
+            "day": "2018-08-18",
+            "high_price": 872.0,
+            "low_price": 751.0
+        },
+        {
+            "change_rate": 0.170998632,
+            "day": "2018-08-17",
+            "high_price": 856.0,
+            "low_price": 700.0
+        }
+    ],
+    "KRW-BAT": [
+        {
+            "change_rate": 0.0239043825,
+            "day": "2018-08-20",
+            "high_price": 262.0,
+            "low_price": 246.0
+        },
+        {
+            "change_rate": 0.0414937759,
+            "day": "2018-08-19",
+            "high_price": 264.0,
+            "low_price": 236.0
+        },
+        {
+            "change_rate": -0.0730769231,
+            "day": "2018-08-18",
+            "high_price": 268.0,
+            "low_price": 230.0
+        },
+        {
+            "change_rate": 0.1555555556,
+            "day": "2018-08-17",
+            "high_price": 260.0,
+            "low_price": 225.0
+        }
+    ],
+    "KRW-BCH": [
+        {
+            "change_rate": -0.0096477795,
+            "day": "2018-08-20",
+            "high_price": 662300.0,
+            "low_price": 643300.0
+        },
+        {
+            "change_rate": 0.0174509193,
+            "day": "2018-08-19",
+            "high_price": 670000.0,
+            "low_price": 623000.0
+        },
+        {
+            "change_rate": -0.065521258,
+            "day": "2018-08-18",
+            "high_price": 700100.0,
+            "low_price": 622000.0
+        },
+        {
+            "change_rate": 0.1448574762,
+            "day": "2018-08-17",
+            "high_price": 686800.0,
+            "low_price": 598500.0
+        }
+    ],
+    "KRW-BTC": [
+        {
+            "change_rate": -0.002422285,
+            "day": "2018-08-20",
+            "high_price": 7469000.0,
+            "low_price": 7398000.0
+        },
+        {
+            "change_rate": 0.0054119876,
+            "day": "2018-08-19",
+            "high_price": 7498000.0,
+            "low_price": 7310000.0
+        },
+        {
+            "change_rate": -0.0140074707,
+            "day": "2018-08-18",
+            "high_price": 7579000.0,
+            "low_price": 7288000.0
+        },
+        {
+            "change_rate": 0.0216709827,
+            "day": "2018-08-17",
+            "high_price": 7526000.0,
+            "low_price": 7306000.0
+        }
+    ],
+    "KRW-BTG": [
+        {
+            "change_rate": 0.0121676431,
+            "day": "2018-08-20",
+            "high_price": 23250.0,
+            "low_price": 21700.0
+        },
+        {
+            "change_rate": 0.0249422633,
+            "day": "2018-08-19",
+            "high_price": 23840.0,
+            "low_price": 20800.0
+        },
+        {
+            "change_rate": -0.0566448802,
+            "day": "2018-08-18",
+            "high_price": 23950.0,
+            "low_price": 20540.0
+        },
+        {
+            "change_rate": 0.1691288844,
+            "day": "2018-08-17",
+            "high_price": 24410.0,
+            "low_price": 19630.0
+        }
+    ],
+    "KRW-CVC": [
+        {
+            "change_rate": -0.0281690141,
+            "day": "2018-08-20",
+            "high_price": 145.0,
+            "low_price": 138.0
+        },
+        {
+            "change_rate": 0.0142857143,
+            "day": "2018-08-19",
+            "high_price": 145.0,
+            "low_price": 135.0
+        },
+        {
+            "change_rate": -0.0849673203,
+            "day": "2018-08-18",
+            "high_price": 183.0,
+            "low_price": 133.0
+        },
+        {
+            "change_rate": 0.1769230769,
+            "day": "2018-08-17",
+            "high_price": 175.0,
+            "low_price": 125.0
+        }
+    ],
+    "KRW-DASH": [
+        {
+            "change_rate": -0.03781284,
+            "day": "2018-08-20",
+            "high_price": 183700.0,
+            "low_price": 176100.0
+        },
+        {
+            "change_rate": 0.0443181818,
+            "day": "2018-08-19",
+            "high_price": 185350.0,
+            "low_price": 171100.0
+        },
+        {
+            "change_rate": -0.0690293573,
+            "day": "2018-08-18",
+            "high_price": 195250.0,
+            "low_price": 169550.0
+        },
+        {
+            "change_rate": 0.087431694,
+            "day": "2018-08-17",
+            "high_price": 192300.0,
+            "low_price": 174600.0
+        }
+    ],
+    "KRW-DCR": [
+        {
+            "change_rate": 0.0129310345,
+            "day": "2018-08-20",
+            "high_price": 47000.0,
+            "low_price": 45470.0
+        },
+        {
+            "change_rate": 0.0297381269,
+            "day": "2018-08-19",
+            "high_price": 46540.0,
+            "low_price": 42520.0
+        },
+        {
+            "change_rate": -0.0592901879,
+            "day": "2018-08-18",
+            "high_price": 51100.0,
+            "low_price": 43200.0
+        },
+        {
+            "change_rate": 0.0663401603,
+            "day": "2018-08-17",
+            "high_price": 48950.0,
+            "low_price": 43010.0
+        }
+    ],
+    "KRW-DMT": [
+        {
+            "change_rate": -0.0387931034,
+            "day": "2018-08-20",
+            "high_price": 233.0,
+            "low_price": 216.0
+        },
+        {
+            "change_rate": 0.1776649746,
+            "day": "2018-08-19",
+            "high_price": 250.0,
+            "low_price": 195.0
+        },
+        {
+            "change_rate": -0.0528846154,
+            "day": "2018-08-18",
+            "high_price": 250.0,
+            "low_price": 195.0
+        },
+        {
+            "change_rate": 0.1122994652,
+            "day": "2018-08-17",
+            "high_price": 211.0,
+            "low_price": 182.0
+        }
+    ],
+    "KRW-EMC2": [
+        {
+            "change_rate": -0.0287474333,
+            "day": "2018-08-20",
+            "high_price": 99.0,
+            "low_price": 94.3
+        },
+        {
+            "change_rate": 0.0114226376,
+            "day": "2018-08-19",
+            "high_price": 98.9,
+            "low_price": 91.9
+        },
+        {
+            "change_rate": -0.0650485437,
+            "day": "2018-08-18",
+            "high_price": 109.0,
+            "low_price": 94.3
+        },
+        {
+            "change_rate": 0.1406423034,
+            "day": "2018-08-17",
+            "high_price": 103.0,
+            "low_price": 89.2
+        }
+    ],
+    "KRW-EOS": [
+        {
+            "change_rate": -0.0132013201,
+            "day": "2018-08-20",
+            "high_price": 6130.0,
+            "low_price": 5955.0
+        },
+        {
+            "change_rate": 0.0314893617,
+            "day": "2018-08-19",
+            "high_price": 6205.0,
+            "low_price": 5735.0
+        },
+        {
+            "change_rate": -0.0762578616,
+            "day": "2018-08-18",
+            "high_price": 6480.0,
+            "low_price": 5630.0
+        },
+        {
+            "change_rate": 0.2091254753,
+            "day": "2018-08-17",
+            "high_price": 6375.0,
+            "low_price": 5210.0
+        }
+    ],
+    "KRW-ETC": [
+        {
+            "change_rate": -0.004587156,
+            "day": "2018-08-20",
+            "high_price": 15520.0,
+            "low_price": 15080.0
+        },
+        {
+            "change_rate": 0.0019697965,
+            "day": "2018-08-19",
+            "high_price": 15800.0,
+            "low_price": 14870.0
+        },
+        {
+            "change_rate": -0.07472661,
+            "day": "2018-08-18",
+            "high_price": 16590.0,
+            "low_price": 14650.0
+        },
+        {
+            "change_rate": 0.0217256363,
+            "day": "2018-08-17",
+            "high_price": 16720.0,
+            "low_price": 15110.0
+        }
+    ],
+    "KRW-ETH": [
+        {
+            "change_rate": -0.003202329,
+            "day": "2018-08-20",
+            "high_price": 348200.0,
+            "low_price": 340500.0
+        },
+        {
+            "change_rate": 0.0077746809,
+            "day": "2018-08-19",
+            "high_price": 352600.0,
+            "low_price": 333500.0
+        },
+        {
+            "change_rate": -0.0573838496,
+            "day": "2018-08-18",
+            "high_price": 368100.0,
+            "low_price": 329400.0
+        },
+        {
+            "change_rate": 0.084095338,
+            "day": "2018-08-17",
+            "high_price": 364300.0,
+            "low_price": 331200.0
+        }
+    ],
+    "KRW-GNT": [
+        {
+            "change_rate": -0.0279329609,
+            "day": "2018-08-20",
+            "high_price": 180.0,
+            "low_price": 172.0
+        },
+        {
+            "change_rate": 0.0170454545,
+            "day": "2018-08-19",
+            "high_price": 187.0,
+            "low_price": 170.0
+        },
+        {
+            "change_rate": -0.1287128713,
+            "day": "2018-08-18",
+            "high_price": 214.0,
+            "low_price": 169.0
+        },
+        {
+            "change_rate": 0.2546583851,
+            "day": "2018-08-17",
+            "high_price": 205.0,
+            "low_price": 159.0
+        }
+    ],
+    "KRW-GRS": [
+        {
+            "change_rate": 0.0145348837,
+            "day": "2018-08-20",
+            "high_price": 736.0,
+            "low_price": 686.0
+        },
+        {
+            "change_rate": 0.0177514793,
+            "day": "2018-08-19",
+            "high_price": 714.0,
+            "low_price": 632.0
+        },
+        {
+            "change_rate": -0.0913978495,
+            "day": "2018-08-18",
+            "high_price": 761.0,
+            "low_price": 651.0
+        },
+        {
+            "change_rate": 0.0613409415,
+            "day": "2018-08-17",
+            "high_price": 751.0,
+            "low_price": 674.0
+        }
+    ],
+    "KRW-GTO": [
+        {
+            "change_rate": -0.0225490196,
+            "day": "2018-08-20",
+            "high_price": 104.0,
+            "low_price": 98.8
+        },
+        {
+            "change_rate": 0.0805084746,
+            "day": "2018-08-19",
+            "high_price": 107.0,
+            "low_price": 92.2
+        },
+        {
+            "change_rate": -0.0653465347,
+            "day": "2018-08-18",
+            "high_price": 112.0,
+            "low_price": 91.2
+        },
+        {
+            "change_rate": 0.1412429379,
+            "day": "2018-08-17",
+            "high_price": 102.0,
+            "low_price": 87.5
+        }
+    ],
+    "KRW-ICX": [
+        {
+            "change_rate": -0.0078226858,
+            "day": "2018-08-20",
+            "high_price": 802.0,
+            "low_price": 753.0
+        },
+        {
+            "change_rate": 0.0652777778,
+            "day": "2018-08-19",
+            "high_price": 788.0,
+            "low_price": 705.0
+        },
+        {
+            "change_rate": -0.1325301205,
+            "day": "2018-08-18",
+            "high_price": 870.0,
+            "low_price": 682.0
+        },
+        {
+            "change_rate": 0.296875,
+            "day": "2018-08-17",
+            "high_price": 836.0,
+            "low_price": 627.0
+        }
+    ],
+    "KRW-IGNIS": [
+        {
+            "change_rate": -0.0206896552,
+            "day": "2018-08-20",
+            "high_price": 58.1,
+            "low_price": 55.8
+        },
+        {
+            "change_rate": 0.0157618214,
+            "day": "2018-08-19",
+            "high_price": 58.5,
+            "low_price": 55.4
+        },
+        {
+            "change_rate": -0.0700325733,
+            "day": "2018-08-18",
+            "high_price": 64.6,
+            "low_price": 55.4
+        },
+        {
+            "change_rate": 0.0848056537,
+            "day": "2018-08-17",
+            "high_price": 61.4,
+            "low_price": 55.4
+        }
+    ],
+    "KRW-IOST": [
+        {
+            "change_rate": -0.0058823529,
+            "day": "2018-08-20",
+            "high_price": 17.6,
+            "low_price": 16.6
+        },
+        {
+            "change_rate": 0.049382716,
+            "day": "2018-08-19",
+            "high_price": 17.3,
+            "low_price": 15.6
+        },
+        {
+            "change_rate": -0.1147540984,
+            "day": "2018-08-18",
+            "high_price": 19.8,
+            "low_price": 15.2
+        },
+        {
+            "change_rate": 0.3357664234,
+            "day": "2018-08-17",
+            "high_price": 18.6,
+            "low_price": 13.6
+        }
+    ],
+    "KRW-IOTA": [
+        {
+            "change_rate": -0.0146579805,
+            "day": "2018-08-20",
+            "high_price": 621.0,
+            "low_price": 599.0
+        },
+        {
+            "change_rate": 0.0809859155,
+            "day": "2018-08-19",
+            "high_price": 651.0,
+            "low_price": 552.0
+        },
+        {
+            "change_rate": -0.1152647975,
+            "day": "2018-08-18",
+            "high_price": 660.0,
+            "low_price": 538.0
+        },
+        {
+            "change_rate": 0.1955307263,
+            "day": "2018-08-17",
+            "high_price": 645.0,
+            "low_price": 533.0
+        }
+    ],
+    "KRW-IQ": [
+        {
+            "change_rate": -0.0058823529,
+            "day": "2018-08-20",
+            "high_price": 18.2,
+            "low_price": 16.6
+        },
+        {
+            "change_rate": 0.0429447853,
+            "day": "2018-08-19",
+            "high_price": 19.0,
+            "low_price": 15.6
+        },
+        {
+            "change_rate": -0.0842696629,
+            "day": "2018-08-18",
+            "high_price": 19.6,
+            "low_price": 15.7
+        },
+        {
+            "change_rate": 0.1125,
+            "day": "2018-08-17",
+            "high_price": 18.1,
+            "low_price": 15.6
+        }
+    ],
+    "KRW-KMD": [
+        {
+            "change_rate": 0,
+            "day": "2018-08-20",
+            "high_price": 1330.0,
+            "low_price": 1300.0
+        },
+        {
+            "change_rate": 0.0038610039,
+            "day": "2018-08-19",
+            "high_price": 1400.0,
+            "low_price": 1255.0
+        },
+        {
+            "change_rate": -0.0512820513,
+            "day": "2018-08-18",
+            "high_price": 1460.0,
+            "low_price": 1235.0
+        },
+        {
+            "change_rate": 0.132780083,
+            "day": "2018-08-17",
+            "high_price": 1375.0,
+            "low_price": 1200.0
+        }
+    ],
+    "KRW-LOOM": [
+        {
+            "change_rate": -0.0245098039,
+            "day": "2018-08-20",
+            "high_price": 103.0,
+            "low_price": 98.1
+        },
+        {
+            "change_rate": 0.0680628272,
+            "day": "2018-08-19",
+            "high_price": 106.0,
+            "low_price": 92.1
+        },
+        {
+            "change_rate": -0.123853211,
+            "day": "2018-08-18",
+            "high_price": 117.0,
+            "low_price": 90.4
+        },
+        {
+            "change_rate": 0.1912568306,
+            "day": "2018-08-17",
+            "high_price": 109.0,
+            "low_price": 88.7
+        }
+    ],
+    "KRW-LSK": [
+        {
+            "change_rate": 0.0023201856,
+            "day": "2018-08-20",
+            "high_price": 4415.0,
+            "low_price": 4200.0
+        },
+        {
+            "change_rate": 0.0023255814,
+            "day": "2018-08-19",
+            "high_price": 4500.0,
+            "low_price": 4025.0
+        },
+        {
+            "change_rate": -0.0570175439,
+            "day": "2018-08-18",
+            "high_price": 4820.0,
+            "low_price": 4005.0
+        },
+        {
+            "change_rate": 0.0212765957,
+            "day": "2018-08-17",
+            "high_price": 5115.0,
+            "low_price": 4315.0
+        }
+    ],
+    "KRW-LTC": [
+        {
+            "change_rate": -0.006504311,
+            "day": "2018-08-20",
+            "high_price": 67030.0,
+            "low_price": 65500.0
+        },
+        {
+            "change_rate": -0.0075063804,
+            "day": "2018-08-19",
+            "high_price": 68060.0,
+            "low_price": 65030.0
+        },
+        {
+            "change_rate": -0.0484285714,
+            "day": "2018-08-18",
+            "high_price": 71760.0,
+            "low_price": 63900.0
+        },
+        {
+            "change_rate": 0.0934083099,
+            "day": "2018-08-17",
+            "high_price": 70680.0,
+            "low_price": 64030.0
+        }
+    ],
+    "KRW-MCO": [
+        {
+            "change_rate": -0.0157261795,
+            "day": "2018-08-20",
+            "high_price": 5440.0,
+            "low_price": 5290.0
+        },
+        {
+            "change_rate": -0.0064338235,
+            "day": "2018-08-19",
+            "high_price": 5525.0,
+            "low_price": 5235.0
+        },
+        {
+            "change_rate": -0.046450482,
+            "day": "2018-08-18",
+            "high_price": 5970.0,
+            "low_price": 5130.0
+        },
+        {
+            "change_rate": 0.0815165877,
+            "day": "2018-08-17",
+            "high_price": 5750.0,
+            "low_price": 5280.0
+        }
+    ],
+    "KRW-MER": [
+        {
+            "change_rate": -0.0245464248,
+            "day": "2018-08-20",
+            "high_price": 93.8,
+            "low_price": 90.3
+        },
+        {
+            "change_rate": 0.0107874865,
+            "day": "2018-08-19",
+            "high_price": 95.5,
+            "low_price": 89.1
+        },
+        {
+            "change_rate": -0.0323590814,
+            "day": "2018-08-18",
+            "high_price": 103.0,
+            "low_price": 88.5
+        },
+        {
+            "change_rate": 0.1075144509,
+            "day": "2018-08-17",
+            "high_price": 96.9,
+            "low_price": 86.7
+        }
+    ],
+    "KRW-MTL": [
+        {
+            "change_rate": 0.0288600289,
+            "day": "2018-08-20",
+            "high_price": 740.0,
+            "low_price": 706.0
+        },
+        {
+            "change_rate": 0.002894356,
+            "day": "2018-08-19",
+            "high_price": 730.0,
+            "low_price": 681.0
+        },
+        {
+            "change_rate": -0.0871862616,
+            "day": "2018-08-18",
+            "high_price": 798.0,
+            "low_price": 673.0
+        },
+        {
+            "change_rate": 0.0860832138,
+            "day": "2018-08-17",
+            "high_price": 788.0,
+            "low_price": 690.0
+        }
+    ],
+    "KRW-NEO": [
+        {
+            "change_rate": -0.0295675199,
+            "day": "2018-08-20",
+            "high_price": 22800.0,
+            "low_price": 21920.0
+        },
+        {
+            "change_rate": 0.0490740741,
+            "day": "2018-08-19",
+            "high_price": 23190.0,
+            "low_price": 20360.0
+        },
+        {
+            "change_rate": -0.0761334474,
+            "day": "2018-08-18",
+            "high_price": 24100.0,
+            "low_price": 20060.0
+        },
+        {
+            "change_rate": 0.2495991448,
+            "day": "2018-08-17",
+            "high_price": 23640.0,
+            "low_price": 18710.0
+        }
+    ],
+    "KRW-OMG": [
+        {
+            "change_rate": -0.0052576236,
+            "day": "2018-08-20",
+            "high_price": 4845.0,
+            "low_price": 4610.0
+        },
+        {
+            "change_rate": -0.0205973223,
+            "day": "2018-08-19",
+            "high_price": 5020.0,
+            "low_price": 4585.0
+        },
+        {
+            "change_rate": -0.0367063492,
+            "day": "2018-08-18",
+            "high_price": 5210.0,
+            "low_price": 4425.0
+        },
+        {
+            "change_rate": 0.1693735499,
+            "day": "2018-08-17",
+            "high_price": 5100.0,
+            "low_price": 4255.0
+        }
+    ],
+    "KRW-ONT": [
+        {
+            "change_rate": 0.04283054,
+            "day": "2018-08-20",
+            "high_price": 3130.0,
+            "low_price": 2695.0
+        },
+        {
+            "change_rate": 0.1004098361,
+            "day": "2018-08-19",
+            "high_price": 2820.0,
+            "low_price": 2275.0
+        },
+        {
+            "change_rate": -0.1839464883,
+            "day": "2018-08-18",
+            "high_price": 3340.0,
+            "low_price": 2085.0
+        },
+        {
+            "change_rate": 0.4987468672,
+            "day": "2018-08-17",
+            "high_price": 3110.0,
+            "low_price": 1965.0
+        }
+    ],
+    "KRW-OST": [
+        {
+            "change_rate": -0.015625,
+            "day": "2018-08-20",
+            "high_price": 32.3,
+            "low_price": 31.2
+        },
+        {
+            "change_rate": 0.0191082803,
+            "day": "2018-08-19",
+            "high_price": 32.4,
+            "low_price": 30.0
+        },
+        {
+            "change_rate": -0.0977011494,
+            "day": "2018-08-18",
+            "high_price": 37.2,
+            "low_price": 30.6
+        },
+        {
+            "change_rate": 0.2041522491,
+            "day": "2018-08-17",
+            "high_price": 36.2,
+            "low_price": 28.4
+        }
+    ],
+    "KRW-PIVX": [
+        {
+            "change_rate": 0.0118577075,
+            "day": "2018-08-20",
+            "high_price": 1315.0,
+            "low_price": 1265.0
+        },
+        {
+            "change_rate": -0.0231660232,
+            "day": "2018-08-19",
+            "high_price": 1350.0,
+            "low_price": 1240.0
+        },
+        {
+            "change_rate": -0.0371747212,
+            "day": "2018-08-18",
+            "high_price": 1450.0,
+            "low_price": 1240.0
+        },
+        {
+            "change_rate": 0.0674603175,
+            "day": "2018-08-17",
+            "high_price": 1390.0,
+            "low_price": 1260.0
+        }
+    ],
+    "KRW-POLY": [
+        {
+            "change_rate": -0.0174672489,
+            "day": "2018-08-20",
+            "high_price": 233.0,
+            "low_price": 221.0
+        },
+        {
+            "change_rate": 0.0315315315,
+            "day": "2018-08-19",
+            "high_price": 237.0,
+            "low_price": 217.0
+        },
+        {
+            "change_rate": -0.0864197531,
+            "day": "2018-08-18",
+            "high_price": 259.0,
+            "low_price": 214.0
+        },
+        {
+            "change_rate": 0.0945945946,
+            "day": "2018-08-17",
+            "high_price": 243.0,
+            "low_price": 218.0
+        }
+    ],
+    "KRW-POWR": [
+        {
+            "change_rate": -0.0227272727,
+            "day": "2018-08-20",
+            "high_price": 223.0,
+            "low_price": 214.0
+        },
+        {
+            "change_rate": 0.0138248848,
+            "day": "2018-08-19",
+            "high_price": 227.0,
+            "low_price": 211.0
+        },
+        {
+            "change_rate": -0.0920502092,
+            "day": "2018-08-18",
+            "high_price": 255.0,
+            "low_price": 208.0
+        },
+        {
+            "change_rate": 0.1013824885,
+            "day": "2018-08-17",
+            "high_price": 243.0,
+            "low_price": 212.0
+        }
+    ],
+    "KRW-QTUM": [
+        {
+            "change_rate": -0.0161290323,
+            "day": "2018-08-20",
+            "high_price": 5325.0,
+            "low_price": 5140.0
+        },
+        {
+            "change_rate": 0.0134615385,
+            "day": "2018-08-19",
+            "high_price": 5410.0,
+            "low_price": 5075.0
+        },
+        {
+            "change_rate": -0.0877192982,
+            "day": "2018-08-18",
+            "high_price": 5925.0,
+            "low_price": 5020.0
+        },
+        {
+            "change_rate": 0.124260355,
+            "day": "2018-08-17",
+            "high_price": 5740.0,
+            "low_price": 5060.0
+        }
+    ],
+    "KRW-REP": [
+        {
+            "change_rate": 0.0055813953,
+            "day": "2018-08-20",
+            "high_price": 21930.0,
+            "low_price": 21470.0
+        },
+        {
+            "change_rate": 0.0267430755,
+            "day": "2018-08-19",
+            "high_price": 22000.0,
+            "low_price": 20370.0
+        },
+        {
+            "change_rate": -0.061827957,
+            "day": "2018-08-18",
+            "high_price": 22960.0,
+            "low_price": 20210.0
+        },
+        {
+            "change_rate": 0.1171171171,
+            "day": "2018-08-17",
+            "high_price": 22500.0,
+            "low_price": 19440.0
+        }
+    ],
+    "KRW-RFR": [
+        {
+            "change_rate": -0.0230905861,
+            "day": "2018-08-20",
+            "high_price": 5.7,
+            "low_price": 5.44
+        },
+        {
+            "change_rate": 0.0217785844,
+            "day": "2018-08-19",
+            "high_price": 5.95,
+            "low_price": 5.06
+        },
+        {
+            "change_rate": 0.0495238095,
+            "day": "2018-08-18",
+            "high_price": 6.46,
+            "low_price": 5.17
+        },
+        {
+            "change_rate": 0.1513157895,
+            "day": "2018-08-17",
+            "high_price": 5.4,
+            "low_price": 4.51
+        }
+    ],
+    "KRW-SBD": [
+        {
+            "change_rate": -0.0219298246,
+            "day": "2018-08-20",
+            "high_price": 1145.0,
+            "low_price": 1105.0
+        },
+        {
+            "change_rate": 0.0133333333,
+            "day": "2018-08-19",
+            "high_price": 1150.0,
+            "low_price": 1115.0
+        },
+        {
+            "change_rate": -0.0585774059,
+            "day": "2018-08-18",
+            "high_price": 1270.0,
+            "low_price": 1110.0
+        },
+        {
+            "change_rate": 0.0717488789,
+            "day": "2018-08-17",
+            "high_price": 1200.0,
+            "low_price": 1120.0
+        }
+    ],
+    "KRW-SC": [
+        {
+            "change_rate": -0.0307917889,
+            "day": "2018-08-20",
+            "high_price": 6.84,
+            "low_price": 6.58
+        },
+        {
+            "change_rate": 0.0460122699,
+            "day": "2018-08-19",
+            "high_price": 6.9,
+            "low_price": 6.22
+        },
+        {
+            "change_rate": -0.0725462304,
+            "day": "2018-08-18",
+            "high_price": 7.77,
+            "low_price": 6.15
+        },
+        {
+            "change_rate": 0.1795302013,
+            "day": "2018-08-17",
+            "high_price": 7.16,
+            "low_price": 5.93
+        }
+    ],
+    "KRW-SNT": [
+        {
+            "change_rate": -0.0258064516,
+            "day": "2018-08-20",
+            "high_price": 47.3,
+            "low_price": 45.1
+        },
+        {
+            "change_rate": 0.0333333333,
+            "day": "2018-08-19",
+            "high_price": 47.5,
+            "low_price": 44.1
+        },
+        {
+            "change_rate": -0.0663900415,
+            "day": "2018-08-18",
+            "high_price": 51.2,
+            "low_price": 43.6
+        },
+        {
+            "change_rate": 0.1421800948,
+            "day": "2018-08-17",
+            "high_price": 49.0,
+            "low_price": 42.1
+        }
+    ],
+    "KRW-SRN": [
+        {
+            "change_rate": -0.0192307692,
+            "day": "2018-08-20",
+            "high_price": 106.0,
+            "low_price": 100.0
+        },
+        {
+            "change_rate": 0.046277666,
+            "day": "2018-08-19",
+            "high_price": 108.0,
+            "low_price": 96.4
+        },
+        {
+            "change_rate": 0.0722761597,
+            "day": "2018-08-18",
+            "high_price": 109.0,
+            "low_price": 87.1
+        },
+        {
+            "change_rate": 0.1332518337,
+            "day": "2018-08-17",
+            "high_price": 94.2,
+            "low_price": 80.7
+        }
+    ],
+    "KRW-STEEM": [
+        {
+            "change_rate": -0.0281690141,
+            "day": "2018-08-20",
+            "high_price": 1085.0,
+            "low_price": 1030.0
+        },
+        {
+            "change_rate": 0.0339805825,
+            "day": "2018-08-19",
+            "high_price": 1085.0,
+            "low_price": 1015.0
+        },
+        {
+            "change_rate": -0.0803571429,
+            "day": "2018-08-18",
+            "high_price": 1180.0,
+            "low_price": 1005.0
+        },
+        {
+            "change_rate": 0.12,
+            "day": "2018-08-17",
+            "high_price": 1140.0,
+            "low_price": 1000.0
+        }
+    ],
+    "KRW-STORJ": [
+        {
+            "change_rate": 0.0029325513,
+            "day": "2018-08-20",
+            "high_price": 354.0,
+            "low_price": 342.0
+        },
+        {
+            "change_rate": -0.0029239766,
+            "day": "2018-08-19",
+            "high_price": 358.0,
+            "low_price": 329.0
+        },
+        {
+            "change_rate": -0.0781671159,
+            "day": "2018-08-18",
+            "high_price": 386.0,
+            "low_price": 327.0
+        },
+        {
+            "change_rate": 0.1276595745,
+            "day": "2018-08-17",
+            "high_price": 374.0,
+            "low_price": 327.0
+        }
+    ],
+    "KRW-STORM": [
+        {
+            "change_rate": -0.0192307692,
+            "day": "2018-08-20",
+            "high_price": 10.6,
+            "low_price": 10.0
+        },
+        {
+            "change_rate": 0.0097087379,
+            "day": "2018-08-19",
+            "high_price": 10.7,
+            "low_price": 9.62
+        },
+        {
+            "change_rate": 0.03,
+            "day": "2018-08-18",
+            "high_price": 12.2,
+            "low_price": 9.31
+        },
+        {
+            "change_rate": 0.2224938875,
+            "day": "2018-08-17",
+            "high_price": 10.3,
+            "low_price": 8.17
+        }
+    ],
+    "KRW-STRAT": [
+        {
+            "change_rate": -0.0086956522,
+            "day": "2018-08-20",
+            "high_price": 1730.0,
+            "low_price": 1700.0
+        },
+        {
+            "change_rate": 0.0454545455,
+            "day": "2018-08-19",
+            "high_price": 1770.0,
+            "low_price": 1605.0
+        },
+        {
+            "change_rate": -0.0883977901,
+            "day": "2018-08-18",
+            "high_price": 1845.0,
+            "low_price": 1590.0
+        },
+        {
+            "change_rate": 0.1830065359,
+            "day": "2018-08-17",
+            "high_price": 1815.0,
+            "low_price": 1530.0
+        }
+    ],
+    "KRW-TIX": [
+        {
+            "change_rate": -0.0308641975,
+            "day": "2018-08-20",
+            "high_price": 166.0,
+            "low_price": 155.0
+        },
+        {
+            "change_rate": 0.0062111801,
+            "day": "2018-08-19",
+            "high_price": 168.0,
+            "low_price": 152.0
+        },
+        {
+            "change_rate": -0.0473372781,
+            "day": "2018-08-18",
+            "high_price": 177.0,
+            "low_price": 152.0
+        },
+        {
+            "change_rate": 0.0903225806,
+            "day": "2018-08-17",
+            "high_price": 173.0,
+            "low_price": 152.0
+        }
+    ],
+    "KRW-TRX": [
+        {
+            "change_rate": -0.0079051383,
+            "day": "2018-08-20",
+            "high_price": 25.9,
+            "low_price": 24.9
+        },
+        {
+            "change_rate": 0.0201612903,
+            "day": "2018-08-19",
+            "high_price": 26.2,
+            "low_price": 23.9
+        },
+        {
+            "change_rate": -0.0676691729,
+            "day": "2018-08-18",
+            "high_price": 28.3,
+            "low_price": 23.5
+        },
+        {
+            "change_rate": 0.1875,
+            "day": "2018-08-17",
+            "high_price": 26.8,
+            "low_price": 22.3
+        }
+    ],
+    "KRW-VTC": [
+        {
+            "change_rate": -0.0098887515,
+            "day": "2018-08-20",
+            "high_price": 810.0,
+            "low_price": 801.0
+        },
+        {
+            "change_rate": 0.01125,
+            "day": "2018-08-19",
+            "high_price": 823.0,
+            "low_price": 782.0
+        },
+        {
+            "change_rate": -0.0543735225,
+            "day": "2018-08-18",
+            "high_price": 927.0,
+            "low_price": 781.0
+        },
+        {
+            "change_rate": 0.0846153846,
+            "day": "2018-08-17",
+            "high_price": 868.0,
+            "low_price": 778.0
+        }
+    ],
+    "KRW-WAVES": [
+        {
+            "change_rate": 0.012195122,
+            "day": "2018-08-20",
+            "high_price": 2525.0,
+            "low_price": 2400.0
+        },
+        {
+            "change_rate": 0.0020366599,
+            "day": "2018-08-19",
+            "high_price": 2540.0,
+            "low_price": 2380.0
+        },
+        {
+            "change_rate": -0.0100806452,
+            "day": "2018-08-18",
+            "high_price": 2495.0,
+            "low_price": 2355.0
+        },
+        {
+            "change_rate": 0.0949227373,
+            "day": "2018-08-17",
+            "high_price": 2490.0,
+            "low_price": 2260.0
+        }
+    ],
+    "KRW-XEM": [
+        {
+            "change_rate": -0.024,
+            "day": "2018-08-20",
+            "high_price": 125.0,
+            "low_price": 121.0
+        },
+        {
+            "change_rate": 0.0245901639,
+            "day": "2018-08-19",
+            "high_price": 126.0,
+            "low_price": 119.0
+        },
+        {
+            "change_rate": -0.0757575758,
+            "day": "2018-08-18",
+            "high_price": 138.0,
+            "low_price": 118.0
+        },
+        {
+            "change_rate": 0.0909090909,
+            "day": "2018-08-17",
+            "high_price": 134.0,
+            "low_price": 120.0
+        }
+    ],
+    "KRW-XLM": [
+        {
+            "change_rate": -0.0114503817,
+            "day": "2018-08-20",
+            "high_price": 265.0,
+            "low_price": 259.0
+        },
+        {
+            "change_rate": 0.0194552529,
+            "day": "2018-08-19",
+            "high_price": 268.0,
+            "low_price": 254.0
+        },
+        {
+            "change_rate": -0.0551470588,
+            "day": "2018-08-18",
+            "high_price": 284.0,
+            "low_price": 252.0
+        },
+        {
+            "change_rate": 0.0923694779,
+            "day": "2018-08-17",
+            "high_price": 275.0,
+            "low_price": 248.0
+        }
+    ],
+    "KRW-XMR": [
+        {
+            "change_rate": 0.0161073826,
+            "day": "2018-08-20",
+            "high_price": 117000.0,
+            "low_price": 111350.0
+        },
+        {
+            "change_rate": -0.0079893475,
+            "day": "2018-08-19",
+            "high_price": 114000.0,
+            "low_price": 109250.0
+        },
+        {
+            "change_rate": 0.0053547523,
+            "day": "2018-08-18",
+            "high_price": 122450.0,
+            "low_price": 109650.0
+        },
+        {
+            "change_rate": 0.0727620871,
+            "day": "2018-08-17",
+            "high_price": 120100.0,
+            "low_price": 105100.0
+        }
+    ],
+    "KRW-XRP": [
+        {
+            "change_rate": -0.010178117,
+            "day": "2018-08-20",
+            "high_price": 402.0,
+            "low_price": 386.0
+        },
+        {
+            "change_rate": 0.0342105263,
+            "day": "2018-08-19",
+            "high_price": 407.0,
+            "low_price": 368.0
+        },
+        {
+            "change_rate": -0.0930787589,
+            "day": "2018-08-18",
+            "high_price": 424.0,
+            "low_price": 363.0
+        },
+        {
+            "change_rate": 0.2359882006,
+            "day": "2018-08-17",
+            "high_price": 429.0,
+            "low_price": 338.0
+        }
+    ],
+    "KRW-ZEC": [
+        {
+            "change_rate": 0.0003111388,
+            "day": "2018-08-20",
+            "high_price": 164800.0,
+            "low_price": 160650.0
+        },
+        {
+            "change_rate": -0.0236938032,
+            "day": "2018-08-19",
+            "high_price": 167700.0,
+            "low_price": 160000.0
+        },
+        {
+            "change_rate": -0.0416302766,
+            "day": "2018-08-18",
+            "high_price": 174850.0,
+            "low_price": 161750.0
+        },
+        {
+            "change_rate": 0.0601851852,
+            "day": "2018-08-17",
+            "high_price": 175450.0,
+            "low_price": 162150.0
+        }
+    ],
+    "KRW-ZIL": [
+        {
+            "change_rate": -0.0114942529,
+            "day": "2018-08-20",
+            "high_price": 44.6,
+            "low_price": 42.6
+        },
+        {
+            "change_rate": 0.0532687651,
+            "day": "2018-08-19",
+            "high_price": 45.0,
+            "low_price": 39.5
+        },
+        {
+            "change_rate": -0.1079913607,
+            "day": "2018-08-18",
+            "high_price": 49.9,
+            "low_price": 37.3
+        },
+        {
+            "change_rate": 0.338150289,
+            "day": "2018-08-17",
+            "high_price": 46.8,
+            "low_price": 34.6
+        }
+    ],
+    "KRW-ZRX": [
+        {
+            "change_rate": -0.0068571429,
+            "day": "2018-08-20",
+            "high_price": 908.0,
+            "low_price": 861.0
+        },
+        {
+            "change_rate": 0.0150812065,
+            "day": "2018-08-19",
+            "high_price": 924.0,
+            "low_price": 845.0
+        },
+        {
+            "change_rate": -0.08492569,
+            "day": "2018-08-18",
+            "high_price": 988.0,
+            "low_price": 818.0
+        },
+        {
+            "change_rate": 0.1432038835,
+            "day": "2018-08-17",
+            "high_price": 960.0,
+            "low_price": 825.0
+        }
+    ],
+    "USDT-ADA": [
+        {
+            "change_rate": -0.0031342235,
+            "day": "2018-08-20",
+            "high_price": 0.103,
+            "low_price": 0.0996
+        },
+        {
+            "change_rate": 0.0305935413,
+            "day": "2018-08-19",
+            "high_price": 0.10340773,
+            "low_price": 0.0963
+        },
+        {
+            "change_rate": -0.1041204566,
+            "day": "2018-08-18",
+            "high_price": 0.112,
+            "low_price": 0.09544516
+        },
+        {
+            "change_rate": 0.1695371773,
+            "day": "2018-08-17",
+            "high_price": 0.10967946,
+            "low_price": 0.09362881
+        }
+    ],
+    "USDT-BCH": [
+        {
+            "change_rate": -0.0103286611,
+            "day": "2018-08-20",
+            "high_price": 577.83289856,
+            "low_price": 562.133332
+        },
+        {
+            "change_rate": 0.0225643982,
+            "day": "2018-08-19",
+            "high_price": 583.19852999,
+            "low_price": 540.97747809
+        },
+        {
+            "change_rate": -0.0757935286,
+            "day": "2018-08-18",
+            "high_price": 613.42701997,
+            "low_price": 534.14933207
+        },
+        {
+            "change_rate": 0.1592420084,
+            "day": "2018-08-17",
+            "high_price": 601.01965,
+            "low_price": 514.0
+        }
+    ],
+    "USDT-BTC": [
+        {
+            "change_rate": -0.0030374985,
+            "day": "2018-08-20",
+            "high_price": 6515.0,
+            "low_price": 6447.01930272
+        },
+        {
+            "change_rate": 0.0168720069,
+            "day": "2018-08-19",
+            "high_price": 6543.67441902,
+            "low_price": 6300.0006
+        },
+        {
+            "change_rate": -0.033437168,
+            "day": "2018-08-18",
+            "high_price": 6630.17077712,
+            "low_price": 6290.62876156
+        },
+        {
+            "change_rate": 0.0465065086,
+            "day": "2018-08-17",
+            "high_price": 6598.63,
+            "low_price": 6290.0
+        }
+    ],
+    "USDT-BTG": [
+        {
+            "change_rate": 0.0013697235,
+            "day": "2018-08-20",
+            "high_price": 20.04104378,
+            "low_price": 19.1673302
+        },
+        {
+            "change_rate": 0.0449164004,
+            "day": "2018-08-19",
+            "high_price": 20.78,
+            "low_price": 17.75000167
+        },
+        {
+            "change_rate": -0.0614542011,
+            "day": "2018-08-18",
+            "high_price": 20.7,
+            "low_price": 17.63361997
+        },
+        {
+            "change_rate": 0.1713157785,
+            "day": "2018-08-17",
+            "high_price": 21.49999999,
+            "low_price": 17.09215352
+        }
+    ],
+    "USDT-DASH": [
+        {
+            "change_rate": -0.0004002711,
+            "day": "2018-08-20",
+            "high_price": 158.27184597,
+            "low_price": 153.03214
+        },
+        {
+            "change_rate": 0.0197297169,
+            "day": "2018-08-19",
+            "high_price": 161.0,
+            "low_price": 149.75796024
+        },
+        {
+            "change_rate": -0.0861297812,
+            "day": "2018-08-18",
+            "high_price": 170.0,
+            "low_price": 146.11184
+        },
+        {
+            "change_rate": 0.1031914217,
+            "day": "2018-08-17",
+            "high_price": 168.01781999,
+            "low_price": 151.1827814
+        }
+    ],
+    "USDT-DCR": [
+        {
+            "change_rate": -0.0101568483,
+            "day": "2018-08-20",
+            "high_price": 41.25034697,
+            "low_price": 39.82220106
+        },
+        {
+            "change_rate": 0.0341177508,
+            "day": "2018-08-19",
+            "high_price": 40.63373589,
+            "low_price": 38.41253245
+        },
+        {
+            "change_rate": -0.0803605888,
+            "day": "2018-08-18",
+            "high_price": 43.99416,
+            "low_price": 36.65835459
+        },
+        {
+            "change_rate": 0.1433247011,
+            "day": "2018-08-17",
+            "high_price": 42.70149986,
+            "low_price": 37.9648012
+        }
+    ],
+    "USDT-DGB": [
+        {
+            "change_rate": -0.0136537583,
+            "day": "2018-08-20",
+            "high_price": 0.02691467,
+            "low_price": 0.02600131
+        },
+        {
+            "change_rate": -0.0114102492,
+            "day": "2018-08-19",
+            "high_price": 0.02739999,
+            "low_price": 0.02479
+        },
+        {
+            "change_rate": -0.0559123773,
+            "day": "2018-08-18",
+            "high_price": 0.02908974,
+            "low_price": 0.02476319
+        },
+        {
+            "change_rate": 0.1536484968,
+            "day": "2018-08-17",
+            "high_price": 0.0295,
+            "low_price": 0.0245
+        }
+    ],
+    "USDT-ETC": [
+        {
+            "change_rate": -0.0015082956,
+            "day": "2018-08-20",
+            "high_price": 13.58999975,
+            "low_price": 13.11
+        },
+        {
+            "change_rate": 0.006833713,
+            "day": "2018-08-19",
+            "high_price": 13.74,
+            "low_price": 12.88000001
+        },
+        {
+            "change_rate": -0.0923687714,
+            "day": "2018-08-18",
+            "high_price": 14.51029848,
+            "low_price": 12.6
+        },
+        {
+            "change_rate": 0.0454105504,
+            "day": "2018-08-17",
+            "high_price": 14.58,
+            "low_price": 13.004
+        }
+    ],
+    "USDT-ETH": [
+        {
+            "change_rate": -0.0032078057,
+            "day": "2018-08-20",
+            "high_price": 303.0,
+            "low_price": 296.0
+        },
+        {
+            "change_rate": 0.0169269214,
+            "day": "2018-08-19",
+            "high_price": 306.89106314,
+            "low_price": 289.13
+        },
+        {
+            "change_rate": -0.0687069651,
+            "day": "2018-08-18",
+            "high_price": 320.89,
+            "low_price": 282.20361429
+        },
+        {
+            "change_rate": 0.1027355283,
+            "day": "2018-08-17",
+            "high_price": 318.0,
+            "low_price": 284.809241
+        }
+    ],
+    "USDT-LTC": [
+        {
+            "change_rate": -0.0086430424,
+            "day": "2018-08-20",
+            "high_price": 58.7,
+            "low_price": 57.171398
+        },
+        {
+            "change_rate": 0.0149122807,
+            "day": "2018-08-19",
+            "high_price": 58.99999999,
+            "low_price": 56.028192
+        },
+        {
+            "change_rate": -0.0679804523,
+            "day": "2018-08-18",
+            "high_price": 62.1,
+            "low_price": 55.0
+        },
+        {
+            "change_rate": 0.1083275747,
+            "day": "2018-08-17",
+            "high_price": 61.6,
+            "low_price": 55.14
+        }
+    ],
+    "USDT-NEO": [
+        {
+            "change_rate": -0.025405967,
+            "day": "2018-08-20",
+            "high_price": 19.92788464,
+            "low_price": 19.2
+        },
+        {
+            "change_rate": 0.0588590126,
+            "day": "2018-08-19",
+            "high_price": 20.21072239,
+            "low_price": 17.63520019
+        },
+        {
+            "change_rate": -0.0972627749,
+            "day": "2018-08-18",
+            "high_price": 21.0,
+            "low_price": 17.0544821
+        },
+        {
+            "change_rate": 0.2926825438,
+            "day": "2018-08-17",
+            "high_price": 20.71999987,
+            "low_price": 16.21998555
+        }
+    ],
+    "USDT-NXT": [
+        {
+            "change_rate": -2.4344e-06,
+            "day": "2018-08-20",
+            "high_price": 0.07130825,
+            "low_price": 0.0698318
+        },
+        {
+            "change_rate": -0.0044171943,
+            "day": "2018-08-19",
+            "high_price": 0.0718,
+            "low_price": 0.06762813
+        },
+        {
+            "change_rate": -0.0762987321,
+            "day": "2018-08-18",
+            "high_price": 0.07889384,
+            "low_price": 0.0669
+        },
+        {
+            "change_rate": 0.1486109458,
+            "day": "2018-08-17",
+            "high_price": 0.0759356,
+            "low_price": 0.06771101
+        }
+    ],
+    "USDT-OMG": [
+        {
+            "change_rate": -0.0116244532,
+            "day": "2018-08-20",
+            "high_price": 4.23789167,
+            "low_price": 4.03294001
+        },
+        {
+            "change_rate": 0.014161788,
+            "day": "2018-08-19",
+            "high_price": 4.32999918,
+            "low_price": 3.96879595
+        },
+        {
+            "change_rate": -0.0866103896,
+            "day": "2018-08-18",
+            "high_price": 4.56999999,
+            "low_price": 3.81
+        },
+        {
+            "change_rate": 0.2183038858,
+            "day": "2018-08-17",
+            "high_price": 4.46687611,
+            "low_price": 3.71175006
+        }
+    ],
+    "USDT-SC": [
+        {
+            "change_rate": -0.011586591,
+            "day": "2018-08-20",
+            "high_price": 0.00599185,
+            "low_price": 0.00576498
+        },
+        {
+            "change_rate": 0.0538775144,
+            "day": "2018-08-19",
+            "high_price": 0.00600006,
+            "low_price": 0.00540014
+        },
+        {
+            "change_rate": -0.1038116974,
+            "day": "2018-08-18",
+            "high_price": 0.0068,
+            "low_price": 0.00520643
+        },
+        {
+            "change_rate": 0.2060760182,
+            "day": "2018-08-17",
+            "high_price": 0.00644444,
+            "low_price": 0.00515174
+        }
+    ],
+    "USDT-TRX": [
+        {
+            "change_rate": -0.0071563004,
+            "day": "2018-08-20",
+            "high_price": 0.02251,
+            "low_price": 0.02162242
+        },
+        {
+            "change_rate": 0.0308434854,
+            "day": "2018-08-19",
+            "high_price": 0.02279085,
+            "low_price": 0.02072434
+        },
+        {
+            "change_rate": -0.0744037549,
+            "day": "2018-08-18",
+            "high_price": 0.02474335,
+            "low_price": 0.02023653
+        },
+        {
+            "change_rate": 0.1965088862,
+            "day": "2018-08-17",
+            "high_price": 0.0233,
+            "low_price": 0.01918555
+        }
+    ],
+    "USDT-TUSD": [
+        {
+            "change_rate": 0.0020039879,
+            "day": "2018-08-20",
+            "high_price": 1.0,
+            "low_price": 1.0
+        },
+        {
+            "change_rate": -0.0049850249,
+            "day": "2018-08-19",
+            "high_price": 1.0046,
+            "low_price": 0.99800002
+        },
+        {
+            "change_rate": 0.0050099999,
+            "day": "2018-08-18",
+            "high_price": 1.005,
+            "low_price": 0.99800003
+        },
+        {
+            "change_rate": 2e-08,
+            "day": "2018-08-17",
+            "high_price": 1.00309999,
+            "low_price": 0.998
+        }
+    ],
+    "USDT-XMR": [
+        {
+            "change_rate": 0.0165034926,
+            "day": "2018-08-20",
+            "high_price": 102.0,
+            "low_price": 97.94009455
+        },
+        {
+            "change_rate": 0.0031535864,
+            "day": "2018-08-19",
+            "high_price": 98.89978735,
+            "low_price": 95.0
+        },
+        {
+            "change_rate": -0.0098932262,
+            "day": "2018-08-18",
+            "high_price": 104.69,
+            "low_price": 94.2024007
+        },
+        {
+            "change_rate": 0.0895356204,
+            "day": "2018-08-17",
+            "high_price": 101.0,
+            "low_price": 90.98499392
+        }
+    ],
+    "USDT-XRP": [
+        {
+            "change_rate": -0.0126805664,
+            "day": "2018-08-20",
+            "high_price": 0.3511,
+            "low_price": 0.337
+        },
+        {
+            "change_rate": 0.0546134736,
+            "day": "2018-08-19",
+            "high_price": 0.35349982,
+            "low_price": 0.31600001
+        },
+        {
+            "change_rate": -0.1134973984,
+            "day": "2018-08-18",
+            "high_price": 0.36932551,
+            "low_price": 0.31231032
+        },
+        {
+            "change_rate": 0.2619699474,
+            "day": "2018-08-17",
+            "high_price": 0.37333302,
+            "low_price": 0.2904826
+        }
+    ],
+    "USDT-XVG": [
+        {
+            "change_rate": 0.0065925455,
+            "day": "2018-08-20",
+            "high_price": 0.01472796,
+            "low_price": 0.01422218
+        },
+        {
+            "change_rate": 0.0219643705,
+            "day": "2018-08-19",
+            "high_price": 0.01472797,
+            "low_price": 0.01329554
+        },
+        {
+            "change_rate": -0.0975554021,
+            "day": "2018-08-18",
+            "high_price": 0.01581976,
+            "low_price": 0.01294517
+        },
+        {
+            "change_rate": 0.3161685759,
+            "day": "2018-08-17",
+            "high_price": 0.01535999,
+            "low_price": 0.01167023
+        }
+    ],
+    "USDT-ZEC": [
+        {
+            "change_rate": -0.0106806549,
+            "day": "2018-08-20",
+            "high_price": 143.98168863,
+            "low_price": 140.0
+        },
+        {
+            "change_rate": -0.0010565147,
+            "day": "2018-08-19",
+            "high_price": 145.53136956,
+            "low_price": 138.74325017
+        },
+        {
+            "change_rate": -0.0534109024,
+            "day": "2018-08-18",
+            "high_price": 154.54502013,
+            "low_price": 140.29070683
+        },
+        {
+            "change_rate": 0.0688687942,
+            "day": "2018-08-17",
+            "high_price": 152.0,
+            "low_price": 139.24784754
+        }
+    ]
+}
